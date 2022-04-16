@@ -1,8 +1,4 @@
 ---
-layout: post
-title: A heartwarming tale of digital literacy and resilience
----
----
 title: "A heartwarming tale of digital literacy and resilience"
 date: 2017-03-16T11:30:30-04:00
 categories:
