@@ -5,6 +5,7 @@ categories:
   - Articles
 tags:
   - web
+  - personal
 ---
 
 A couple of days ago someone asked [this question on Reddit](https://www.reddit.com/r/AskReddit/comments/7mcyft/whats_a_sensation_that_youre_unsure_if_other/):
