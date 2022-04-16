@@ -60,15 +60,15 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Former designer. Presently a thumb twiddler."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.glennbroadway.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/glennbroadway"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/glennbroadway"
+    - label: "LinedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/glennbroadway/"
 
 footer:
   links:
@@ -78,6 +78,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/glennbroadway"
+    - label: "LinedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/glennbroadway/"
 
 defaults:
   # _posts
