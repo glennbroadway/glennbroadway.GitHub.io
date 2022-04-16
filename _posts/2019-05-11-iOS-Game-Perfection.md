@@ -1,6 +1,10 @@
 ---
-layout: post
-title: iOS Game Perfection
+title: "iOS Game Perfection"
+date: 2019-05-11T15:34:30-04:00
+categories:
+  - blog
+tags:
+  - games
 ---
 
 I have used an iPhone since the 3G was launched in 2008 and although I do still play games on other platforms (Xbox mainly) most of my hours of gaming will have been on iPhone or iPad. Throughout my decade or so of experiencing iPhone games I’ve come across a few developers who repeatedly strike gold with their creations.
