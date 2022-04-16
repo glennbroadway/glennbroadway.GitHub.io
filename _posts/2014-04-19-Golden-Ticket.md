@@ -18,6 +18,24 @@ gallery:
     image_path: /assets/images/aardman-03.jpg
     alt: ""
     title: ""
+gallery2:
+  - url: /assets/images/aardman-05.jpg
+    image_path: /assets/images/aardman-05.jpg
+    alt: ""
+    title: "Aardman Animations HQ, Bristol"
+  - url: /assets/images/aardman-06.jpg
+    image_path: /assets/images/aardman-06.jpg
+    alt: ""
+    title: ""
+gallery3:
+  - url: /assets/images/aardman-07.jpg
+    image_path: /assets/images/aardman-07.jpg
+    alt: ""
+    title: "Aardman Animations HQ, Bristol"
+  - url: /assets/images/aardman-08.jpg
+    image_path: /assets/images/aardman-08.jpg
+    alt: ""
+    title: ""
 ---
 
 I once met [Rutger Hauer](http://www.imdb.com/name/nm0000442/). And [Syd Mead](http://en.wikipedia.org/wiki/Syd_Mead). I've chatted to [Eugene Jarvis](http://en.wikipedia.org/wiki/Eugene_Jarvis), [Alexey Pajitnov](http://en.wikipedia.org/wiki/Alexey_Pajitnov) and [Mark Cerny](http://en.wikipedia.org/wiki/Mark_Cerny). I spent a week in South Korea with [Sir Ian Livingstone](http://en.wikipedia.org/wiki/Ian_Livingstone). I've pretty much met most of the people that I would have, at one point or another, considered heroes. Last week I met another.
@@ -46,18 +64,16 @@ Next stop was the model making workshop. This hive of activity was home to a sma
 
 Our journey continued on to the Morph Memory room. Now this definitely was set up for our benefit, but that doesn't matter because it was great. I could have spent two hours in here looking at old photographs (the walls were covered) and exploring the artefacts. In one corner stood a set of scales, the original set I presume, used to weigh out the plasticine for Morph. There was yellow sticker with an M marking the amount needed for our hero - five and three quarter ounces (as Merlin had previously informed me). Peter spent yet more time telling us stories and answering questions.
 
-![Aardman]({{ site.baseurl }}/images/aardman-05.jpg)
-![Aardman]({{ site.baseurl }}/images/aardman-06.jpg)
+{% include gallery2 caption="" %}
 
 We returned to the room where we started for some refreshments. I was slightly nervous about asking Peter to sign my Aardman book of 3D animation. I needn't have worried; remember Matthew? The no. 1 fan I mentioned? He had a pile of books nearly as tall as me.
 
 I chatted to Peter about books whilst he was signing my copy and he asked if I had read Richard Williams' book The Animator's Survival Kit. He then casually mentioned "Of course Richard's working here at the moment. He's officially retired, but he asked if he could come and do some work here." One of the dutch animators overheard this and almost fainted. Richard Williams was next door?! For those of you who don't know who Richard Williams is, let's just say he's [quite important in the world of animation](https://youtu.be/h9uPWdSGlDE).
 
-![Aardman]({{ site.baseurl }}/images/aardman-07.jpg)
-![Aardman]({{ site.baseurl }}/images/aardman-08.jpg)
+{% include gallery3 caption="" %}
 
 We were treated to a seat in Aardman's own screening room where we watched a few choice Morph episodes and got a glimpse of the new Shaun The Sheep movie. Our tour had come to its end and I can honestly say that I don't think that Peter Lord, Merlin, Katie and everyone else that we met, could have done any more to make our Kickstarter reward any more enjoyable.
 
 Aardman is a magical place, the walls are adorned with beautiful, whimsical illustrations; every room is filled with miniature treasures; even the elevator warns you to "Mind the doors Gromit!" with the instantly recognisable voice of Peter Sallis. I'm so proud to have been a part of the Bring Back Morph campaign, and I have a sneaking suspicion that we might see another Kickstarter appeal at some point, maybe for a much larger scale project.
 
-![Aardman]({{ site.baseurl }}/images/aardman-group.jpg)
+![Aardman]({{ site.baseurl }}/assets/images/aardman-group.jpg)
