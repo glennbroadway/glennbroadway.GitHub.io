@@ -8,15 +8,15 @@ tags:
 gallery:
   - url: /assets/images/aardman-01.jpg
     image_path: /assets/images/aardman-03.jpg
-    alt: "placeholder image 1"
-    title: ""
+    alt: ""
+    title: "Aardman Animations HQ, Bristol"
   - url: /assets/images/aardman-02.jpg
     image_path: /assets/images/aardman-03.jpg
-    alt: "placeholder image 2"
-    title: ""
+    alt: ""
+    title: "Eric in the Aardman Animations lobby"
   - url: /assets/images/aardman-03.jpg
     image_path: /assets/images/aardman-03.jpg
-    alt: "placeholder image 3"
+    alt: ""
     title: ""
 ---
 
