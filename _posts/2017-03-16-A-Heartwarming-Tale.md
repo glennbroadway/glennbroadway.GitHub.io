@@ -2,6 +2,15 @@
 layout: post
 title: A heartwarming tale of digital literacy and resilience
 ---
+---
+title: "A heartwarming tale of digital literacy and resilience"
+date: 2017-03-16T11:30:30-04:00
+categories:
+  - Articles
+tags:
+  - tech
+  - web
+---
 
 Last night [a thread appeared on the ‘buildapc’ section of Reddit](https://np.reddit.com/r/buildapc/comments/5zjt8e/first_time_build_will_not_power_up/) that, to me, perfectly encapsulates how technology is completely embedded in the lives of young people. The first message was posted by Colby, aged 10, who was having trouble building his new PC.
 
@@ -9,9 +18,10 @@ Last night [a thread appeared on the ‘buildapc’ section of Reddit](https://n
 
 This ten year old had put hours of work into speccing his new PC and wrote reports for his Dad to grade, in order to prove he knew what he was getting into and earn the money needed to buy the parts. Then, when the build didn't go quite to plan he created a Reddit account (using his Dad's email address) and tried to get his problem solved in the 'buldapc' community.
 
-![Colby]({{ site.baseurl }}/images/Colby.JPG)
-
-_With the help of some Redditors Colby also learned how to upload this picture to Imgur._
+<figure>
+  <img src="{{ site.baseurl }}/assets/images/Colby.JPG" alt="Colby">
+  <figcaption>With the help of some Redditors Colby also learned how to upload this picture to Imgur.</figcaption>
+</figure>
 
 What follows is a heartwarming series of conversations involving dozens of random people (including qualified PC technicians) who all try to help Colby solve his problems. Colby's endearing eloquence and incredible resilience eventually lead to a solution and all of Reddit lets out a triumphant cheer when he posts news of his success.
 
