@@ -1,11 +1,15 @@
 ---
-layout: post
-title: Out Of Control
+title: "Out Of Control"
+date: 2006-11-09T15:34:30-04:00
+categories:
+  - Articles
+tags:
+  - games
 ---
 
 I've just read an [editorial on mobileindustry.biz](https://web.archive.org/web/20080206001234/http://mobileindustry.biz/article.php?article_id=1987) about the unsuitability of mobile phone buttons for controlling games. Mark Clapham concludes that everything that's wrong with mobile games could be fixed if the handset manufacturers would think more like Nintendo when designing their devices.
 
-![Game Watch]({{ site.baseurl }}/images/arcadewatch.jpg)
+![Game Watch]({{ site.baseurl }}/images/arcadewatch.jpg){: .align-right}
 
 It's not a new idea. We've all been saying it since 1999. It's not going to happen. Mobile phones don't get sold based on their similarity to joypads or consoles. They get sold based on how much they look like an iPod, how smooth and shiny they are, how easy it is communicate with them (yes! Shock, horror).  The manufacturers don't make money out of games, and they know as well we (developers, publishers) do that an almost insignificant slice of their market will ever download one. So why should they bother compromising the aesthetics of their latest fashion accessory for the sake of a few geeks, too embarrassed to carry a DS around with them?
 
