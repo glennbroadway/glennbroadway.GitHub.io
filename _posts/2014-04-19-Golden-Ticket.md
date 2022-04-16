@@ -42,7 +42,7 @@ gallery4:
     alt: ""
     title: ""
 gallery5:
-  - url: /assets/images/aardman-07.jpg
+  - url: /assets/images/aardman-group.jpg
     image_path: /assets/images/aardman-group.jpg
     alt: ""
     title: ""
