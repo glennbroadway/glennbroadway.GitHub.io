@@ -12,12 +12,14 @@ When I saw the Vortex Race 3 mechanical keyboard I knew it was time for me to ma
 ![Vortex Race 3]({{ site.baseurl }}/assets/images/VortexRace3.jpg)
 
 <figure>
-  <img src="{{ site.baseurl }}/assets/images/UKvsUSKeyboard.png" alt="">
+  <img src="{{ site.baseurl }}/assets/images/UKvsUSKeyboard.png" alt="UK vs US Keyboard">
   <figcaption>These are the main differences between ISO and ANSI.</figcaption>
 </figure>
 
-![Apple's UK Magic Keyboard]({{ site.baseurl }}/assets/images/appleUKMagic.jpg)
-Apple's UK Magic Keyboard (formerly the Extended Keyboard I think).
+<figure>
+  <img src="{{ site.baseurl }}/assets/images/appleUKMagic.jpg" alt="Apple's UK Magic Keyboard">
+  <figcaption>Apple's UK Magic Keyboard (formerly the Extended Keyboard I think).</figcaption>
+</figure>
 
 So why am I writing this post? Well, it wasn't exactly easy getting the Vortex Race 3 working on my MacBook. It worked out of the box, to a degree, but I wanted the same symbol appearing on screen as is printed upon the key I press. If you compare the actual Apple keyboard above to the UK ISO layout above that, you can see that some keys are in non-standard places (the \| key for example, which is relocated nearer to the Enter/Return key by Apple). As you can see from the picture at the start of this article I switched out some of the keys for the multi-coloured alternatives that are supplied in the box, and I also installed the command ⌘ key and swapped its position with the Alt key's default location.
 
@@ -49,4 +51,4 @@ I use 1Password to manage my passwords and it's set up for an Apple keyboard lay
 
 I really like the Vortex Race 3. The 75% layout is perfect for me and the build quality is exquisite. I also love the design (although I think I prefer the older keycaps which had the symbols one above the other rather than at an angle). I've got Cherry MX Browns, but I think I'd like to try Clears at some point. I just never realised that buying a UK keyboard would mean so much research and work if you wanted to use it on a Mac. I'm sure there are mechanical keyboards designed specifically for the Mac, but I will occasionally use this on a Windows machine as well so I am happy.
 
-Someone on Reddit described the Vortex Race 3 as looking like a keyboard out of school science lab from the 1970s - which is exactly why I like it.
+Someone on Reddit described the Vortex Race 3 as looking like a keyboard out of a school science lab from the 1970s - which is exactly why I like it.
