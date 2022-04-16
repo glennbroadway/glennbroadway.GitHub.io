@@ -1,6 +1,10 @@
 ---
-layout: post
-title: It's Not All About Length
+title: "It's Not All About Length"
+date: 2006-11-27T15:34:30-04:00
+categories:
+  - Articles
+tags:
+  - games
 ---
 
 This week's Gamasutra Question of the Week is:
