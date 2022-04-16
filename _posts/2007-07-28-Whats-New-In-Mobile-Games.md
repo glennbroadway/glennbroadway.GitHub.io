@@ -1,6 +1,10 @@
 ---
-layout: post
-title: What's New In Mobile Games?
+title: "What's New In Mobile Games"
+date: 2007-07-28T15:34:30-04:00
+categories:
+  - Articles
+tags:
+  - games
 ---
 
 So, after being almost entirely disconnected from the mobile games industry for some quite considerable time, I'm back in - sort of. In a few days I will officially be CCO (that's American for Creative Director) of our new company. When I have something interesting to tell you about that I will. For now I'll just say that it's not really mobile games, although maybe it is. But mobile games is what I want to talk about now.
