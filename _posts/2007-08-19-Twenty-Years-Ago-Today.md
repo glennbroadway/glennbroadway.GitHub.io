@@ -13,6 +13,6 @@ It was a Wednesday and I first heard of the events during the early evening news
 
 When the news returned the facts were reported. One gunman. Sixteen murders. One suicide. There was speculation of course; even mention of Rambo being an influence, but nothing like the news of today.
 
-![Hungerford]({{ site.baseurl }}/images/Hungerford.jpg)
+![Hungerford]({{ site.baseurl }}/assets/images/Hungerford.jpg){: .align-right}
 
 This event was one of a handful from the eighties which I remember clearly. I have few memories of my late childhood, for some reason, so on days like these the internet is a wonderful resource and reminder. During the course of my morning browsing I've read TV listings from the eighties and watched clips from the period. I've seen pictures of Johnny Ball, rediscovered the Renault Fuego and yearned for a Texan bar. I've also been reminded that Ryan's first victim was murdered whilst picnicking with two young children. I found [this detailed piece of writing](https://web.archive.org/web/20060201235608/http://www.jeremyjosephs.com/hunger.htm#killed) on the massacre and noticed that the author had dedicated it to Hannah and James, both in their early twenties now. Whilst I sit here typing this, having actively sought to remember this day of twenty years ago, I'm sure they are doing the exact opposite.
