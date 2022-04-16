@@ -11,7 +11,10 @@ I have used an iPhone since the 3G was launched in 2008 and although I do still 
 
 ## Martin Jonasson - [@grapefrukt](https://twitter.com/grapefrukt)
 
-![rymdkapsel]({{ site.baseurl }}/assets/images/rymdkapsel.JPG)
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/rymdkapsel.JPG" alt="rymdkapsel">
+  <figcaption>rymdkapsel</figcaption>
+</figure>
 
 Martin is adept at taking a currently popular genre and creating a masterpiece within it. The wildly popular [Holedown](https://holedown.com/) takes the brick breaking genre, pioneered by the likes of BB Tan and Ballz, and refines it into a beautifully addictive mobile gem. His previous game, [twofold inc.](https://twofoldinc.com/) did a similar thing for number matching games like Threes and 2048. However, his most brilliant work, in my opinion, is [rymdkapsel](https://rymdkapsel.com/). 
 
