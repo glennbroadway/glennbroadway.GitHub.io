@@ -1,6 +1,10 @@
 ---
-layout: post
-title: Ear Rumblers Assemble
+title: "Ear Rumblers Assemble"
+date: 2017-12-28T11:30:30-04:00
+categories:
+  - Articles
+tags:
+  - web
 ---
 
 A couple of days ago someone asked [this question on Reddit](https://www.reddit.com/r/AskReddit/comments/7mcyft/whats_a_sensation_that_youre_unsure_if_other/):
