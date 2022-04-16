@@ -11,7 +11,7 @@ I have used an iPhone since the 3G was launched in 2008 and although I do still 
 
 ## Martin Jonasson - [@grapefrukt](https://twitter.com/grapefrukt)
 
-<figure style="width: 300px" class="align-right">
+<figure style="width: 400px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/rymdkapsel.JPG" alt="rymdkapsel">
   <figcaption>rymdkapsel</figcaption>
 </figure>
