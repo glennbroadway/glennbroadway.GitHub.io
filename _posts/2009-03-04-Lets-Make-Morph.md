@@ -1,6 +1,10 @@
 ---
-layout: post
-title: Let's Make Morph
+title: "Let's Make Morph"
+date: 2009-03-04T15:34:30-04:00
+categories:
+  - Articles
+tags:
+  - news
 ---
 
 On Sunday I traveled up to London to attend Let's Make Morph - a tribute to Tony Hart. Not quite a Flash Mob ([as reported](http://news.bbc.co.uk/1/hi/uk/7918002.stm) by several news sources) but still a fairly large gathering of people, many of whom brought along their own Morphs. The Facebook group which started the whole thing had around 800 members. There were probably more like 300 people there on the day, gathered at the end of the Millennium Bridge outside Tate Modern. The Morphs came in all shapes, sizes and colours. I just added a black armband to mine, which otherwise stayed fairly faithful to Lord and Sproxton's original design.
