@@ -60,17 +60,18 @@ Before we left, Eric and I tried to commit the 15 episode titles to memory (they
   <img src="{{ site.baseurl }}/assets/images/aardman-04.jpg alt="Aardman">
   <figcaption>Some of the characters on display in the model making workshop.</figcaption>
 </figure>
+                                                                         
 Next stop was the model making workshop. This hive of activity was home to a small group of craftsmen, beavering away on miniature props for the various productions going on at Aardman. A table proudly displayed many of the famous models and characters from Aardman's history and even though I suspect it had been arranged purely for our benefit it was great to see the Cuprinol man, the blue Amigo Loans guy and dozens of other familiar faces up close.
 
 Our journey continued on to the Morph Memory room. Now this definitely was set up for our benefit, but that doesn't matter because it was great. I could have spent two hours in here looking at old photographs (the walls were covered) and exploring the artefacts. In one corner stood a set of scales, the original set I presume, used to weigh out the plasticine for Morph. There was yellow sticker with an M marking the amount needed for our hero - five and three quarter ounces (as Merlin had previously informed me). Peter spent yet more time telling us stories and answering questions.
 
-{% include gallery2 caption="" %}
+{% include gallery id="gallery2" caption="" %}
 
 We returned to the room where we started for some refreshments. I was slightly nervous about asking Peter to sign my Aardman book of 3D animation. I needn't have worried; remember Matthew? The no. 1 fan I mentioned? He had a pile of books nearly as tall as me.
 
 I chatted to Peter about books whilst he was signing my copy and he asked if I had read Richard Williams' book The Animator's Survival Kit. He then casually mentioned "Of course Richard's working here at the moment. He's officially retired, but he asked if he could come and do some work here." One of the dutch animators overheard this and almost fainted. Richard Williams was next door?! For those of you who don't know who Richard Williams is, let's just say he's [quite important in the world of animation](https://youtu.be/h9uPWdSGlDE).
 
-{% include gallery3 caption="" %}
+{% include gallery id="gallery2" caption="" %}
 
 We were treated to a seat in Aardman's own screening room where we watched a few choice Morph episodes and got a glimpse of the new Shaun The Sheep movie. Our tour had come to its end and I can honestly say that I don't think that Peter Lord, Merlin, Katie and everyone else that we met, could have done any more to make our Kickstarter reward any more enjoyable.
 
