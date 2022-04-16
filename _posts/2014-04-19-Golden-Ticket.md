@@ -57,7 +57,7 @@ We got to see some props and other characters (yes, Nail Brush is making a retur
 Before we left, Eric and I tried to commit the 15 episode titles to memory (they were conspicuously pinned to the wall). I'm afraid you'll just have to wait to find out.
 
 <figure style="width: 300px" class="align-right">
-  <img src="{{ site.baseurl }}/assets/images/aardman-04.jpg alt="Aardman">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/aardman-04.jpg alt="Aardman">
   <figcaption>Some of the characters on display in the model making workshop.</figcaption>
 </figure>
                                                                          
@@ -71,7 +71,7 @@ We returned to the room where we started for some refreshments. I was slightly n
 
 I chatted to Peter about books whilst he was signing my copy and he asked if I had read Richard Williams' book The Animator's Survival Kit. He then casually mentioned "Of course Richard's working here at the moment. He's officially retired, but he asked if he could come and do some work here." One of the dutch animators overheard this and almost fainted. Richard Williams was next door?! For those of you who don't know who Richard Williams is, let's just say he's [quite important in the world of animation](https://youtu.be/h9uPWdSGlDE).
 
-{% include gallery id="gallery2" caption="" %}
+{% include gallery id="gallery3" caption="" %}
 
 We were treated to a seat in Aardman's own screening room where we watched a few choice Morph episodes and got a glimpse of the new Shaun The Sheep movie. Our tour had come to its end and I can honestly say that I don't think that Peter Lord, Merlin, Katie and everyone else that we met, could have done any more to make our Kickstarter reward any more enjoyable.
 
