@@ -1,6 +1,23 @@
 ---
-layout: post
-title: I've Got A Golden Ticket
+title: "I've Got a Golden Ticket"
+date: 2014-04-19T15:34:30-04:00
+categories:
+  - Articles
+tags:
+  - personal
+gallery:
+  - url: /assets/images/aardman-01.jpg
+    image_path: /assets/images/aardman-03.jpg
+    alt: "placeholder image 1"
+    title: ""
+  - url: /assets/images/aardman-02.jpg
+    image_path: /assets/images/aardman-03.jpg
+    alt: "placeholder image 2"
+    title: ""
+  - url: /assets/images/aardman-03.jpg
+    image_path: /assets/images/aardman-03.jpg
+    alt: "placeholder image 3"
+    title: ""
 ---
 
 I once met [Rutger Hauer](http://www.imdb.com/name/nm0000442/). And [Syd Mead](http://en.wikipedia.org/wiki/Syd_Mead). I've chatted to [Eugene Jarvis](http://en.wikipedia.org/wiki/Eugene_Jarvis), [Alexey Pajitnov](http://en.wikipedia.org/wiki/Alexey_Pajitnov) and [Mark Cerny](http://en.wikipedia.org/wiki/Mark_Cerny). I spent a week in South Korea with [Sir Ian Livingstone](http://en.wikipedia.org/wiki/Ian_Livingstone). I've pretty much met most of the people that I would have, at one point or another, considered heroes. Last week I met another.
@@ -9,9 +26,7 @@ Choosing to back the [Bring Back Morph Kickstarter](https://www.kickstarter.com/
 
 He was and he's lovely.
 
-![Aardman]({{ site.baseurl }}/images/aardman-01.jpg)
-![Aardman]({{ site.baseurl }}/images/aardman-02.jpg)
-![Aardman]({{ site.baseurl }}/images/aardman-03.jpg)
+{% include gallery caption="" %}
 
 We arrived at the Aardman studio in Bristol just after lunch and there were already one or two others waiting in the foyer (a young lad with his dad; a chap called Matthew, who it turns out is the world's no. 1 Wallace & Gromit fan, with his mum). We were joined by four others, including a couple of animators who had flown over from Amsterdam. Whilst we were marvelling at the models and sets on display in the lobby Peter came down and introduced himself to us all. I shook the hand that had animated [War Story](https://www.youtube.com/watch?v=UAhcbXeKJ3Y) and [Adam](https://www.youtube.com/watch?v=CnVMtQe-2YM). And [Morph](https://www.youtube.com/channel/UCL7N5wBrbp0J4vU46KWTWtQ?sub_confirmation=1&src_vid=eyjXLfrojDE&feature=iv&annotation_id=annotation_3967251239).
 
@@ -23,7 +38,9 @@ We got to see some props and other characters (yes, Nail Brush is making a retur
 
 Before we left, Eric and I tried to commit the 15 episode titles to memory (they were conspicuously pinned to the wall). I'm afraid you'll just have to wait to find out.
 
-![Aardman]({{ site.baseurl }}/images/aardman-04.jpg)
+<figure style="width: 200px" class="align-right">
+  <img src="{{ site.baseurl }}/assets/images/aardman-04.jpg alt="Aardman">
+</figure> 
 
 Next stop was the model making workshop. This hive of activity was home to a small group of craftsmen, beavering away on miniature props for the various productions going on at Aardman. A table proudly displayed many of the famous models and characters from Aardman's history and even though I suspect it had been arranged purely for our benefit it was great to see the Cuprinol man, the blue Amigo Loans guy and dozens of other familiar faces up close.
 
