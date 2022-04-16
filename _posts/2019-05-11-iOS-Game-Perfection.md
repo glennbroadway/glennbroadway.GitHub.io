@@ -2,14 +2,14 @@
 title: "iOS Game Perfection"
 date: 2019-05-11T15:34:30-04:00
 categories:
-  - blog
+  - Articles
 ---
 
 I have used an iPhone since the 3G was launched in 2008 and although I do still play games on other platforms (Xbox mainly) most of my hours of gaming will have been on iPhone or iPad. Throughout my decade or so of experiencing iPhone games I’ve come across a few developers who repeatedly strike gold with their creations.
 
 ## Martin Jonasson - [@grapefrukt](https://twitter.com/grapefrukt)
 
-![rymdkapsel]({{ site.baseurl }}/images/rymdkapsel.JPG)
+![rymdkapsel]({{ site.baseurl }}/assets/images/rymdkapsel.JPG)
 
 Martin is adept at taking a currently popular genre and creating a masterpiece within it. The wildly popular [Holedown](https://holedown.com/) takes the brick breaking genre, pioneered by the likes of BB Tan and Ballz, and refines it into a beautifully addictive mobile gem. His previous game, [twofold inc.](https://twofoldinc.com/) did a similar thing for number matching games like Threes and 2048. However, his most brilliant work, in my opinion, is [rymdkapsel](https://rymdkapsel.com/). 
 
