@@ -5,12 +5,14 @@ title: Using an ISO-UK Vortex Race 3 on a Mac
 
 When I saw the Vortex Race 3 mechanical keyboard I knew it was time for me to make the switch away from Apple's weird, flat little things that they ship with their Macs. I live in the UK so am used to a big Enter/Return key, and luckily Vortex do make a variety of layouts, including ISO-UK. It is not the same layout as the Apple Extended Keyboard though - Apple have their own keyboard layout which is a sort of mix of the US (ANSI) layout and the UK (ISO).
 
-![Vortex Race 3]({{ site.baseurl }}/images/VortexRace3.jpg)
+![Vortex Race 3]({{ site.baseurl }}/assets/images/VortexRace3.jpg)
 
-![UK vs US Keyboard Layout]({{ site.baseurl }}/images/UKvsUSKeyboard.png)
-These are the main differences between ISO and ANSI.
+<figure>
+  <img src="{{ site.baseurl }}/assets/images/UKvsUSKeyboard.png" alt="">
+  <figcaption>These are the main differences between ISO and ANSI.</figcaption>
+</figure>
 
-![Apple's UK Magic Keyboard]({{ site.baseurl }}/images/appleUKMagic.jpg)
+![Apple's UK Magic Keyboard]({{ site.baseurl }}/assets/images/appleUKMagic.jpg)
 Apple's UK Magic Keyboard (formerly the Extended Keyboard I think).
 
 So why am I writing this post? Well, it wasn't exactly easy getting the Vortex Race 3 working on my MacBook. It worked out of the box, to a degree, but I wanted the same symbol appearing on screen as is printed upon the key I press. If you compare the actual Apple keyboard above to the UK ISO layout above that, you can see that some keys are in non-standard places (the \| key for example, which is relocated nearer to the Enter/Return key by Apple). As you can see from the picture at the start of this article I switched out some of the keys for the multi-coloured alternatives that are supplied in the box, and I also installed the command ⌘ key and swapped its position with the Alt key's default location.
@@ -31,7 +33,7 @@ Why not just reprogram the keys using the built in functionality of the keyboard
 
 I used Karabiner Elements to reprogram these keys:
 
-![Karabiner Elements]({{ site.baseurl }}/images/karabinerElements.png)
+![Karabiner Elements]({{ site.baseurl }}/assets/images/karabinerElements.png)
 
 It's important to select the correct keyboard from the _Target Device:_ dropdown at the top of the _Simple Modifications tab._ The last keys that needed swapping were _grave_accent_and_tilde_ and _non_us_backslash_. I also used Karabiner to swap _left_command_ with _left_option_, and to change _right_command_ to _right_option_.
 
