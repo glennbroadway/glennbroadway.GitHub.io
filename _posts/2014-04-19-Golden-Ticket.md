@@ -19,19 +19,24 @@ gallery:
     alt: ""
     title: ""
 gallery2:
+  - url: /assets/images/aardman-04.jpg
+    image_path: /assets/images/aardman-04-s.jpg
+    alt: ""
+    title: ""
+gallery3:
   - url: /assets/images/aardman-05.jpg
     image_path: /assets/images/aardman-05-s.jpg
     alt: ""
-    title: "Aardman Animations HQ, Bristol"
+    title: ""
   - url: /assets/images/aardman-06.jpg
     image_path: /assets/images/aardman-06-s.jpg
     alt: ""
     title: ""
-gallery3:
+gallery4:
   - url: /assets/images/aardman-07.jpg
     image_path: /assets/images/aardman-07-s.jpg
     alt: ""
-    title: "Aardman Animations HQ, Bristol"
+    title: ""
   - url: /assets/images/aardman-08.jpg
     image_path: /assets/images/aardman-08-s.jpg
     alt: ""
@@ -56,7 +61,9 @@ We got to see some props and other characters (yes, Nail Brush is making a retur
 
 Before we left, Eric and I tried to commit the 15 episode titles to memory (they were conspicuously pinned to the wall). I'm afraid you'll just have to wait to find out.
 
-![Aardman]({{ site.baseurl }}/assets/images/aardman-04-s.jpg){: .align-right}
+<figure style="width: 400px" class="align-right">
+  {% include gallery id="gallery2" caption="" %}
+</figure>
 
 Next stop was the model making workshop. This hive of activity was home to a small group of craftsmen, beavering away on miniature props for the various productions going on at Aardman. A table proudly displayed many of the famous models and characters from Aardman's history and even though I suspect it had been arranged purely for our benefit it was great to see the Cuprinol man, the blue Amigo Loans guy and dozens of other familiar faces up close.
 
