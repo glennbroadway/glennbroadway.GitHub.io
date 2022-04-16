@@ -1,6 +1,10 @@
 ---
-layout: post
-title: Using an ISO-UK Vortex Race 3 on a Mac
+title: "iOS Game Perfection"
+date: 2018-05-12T11:30:30-04:00
+categories:
+  - Articles
+tags:
+  - tech
 ---
 
 When I saw the Vortex Race 3 mechanical keyboard I knew it was time for me to make the switch away from Apple's weird, flat little things that they ship with their Macs. I live in the UK so am used to a big Enter/Return key, and luckily Vortex do make a variety of layouts, including ISO-UK. It is not the same layout as the Apple Extended Keyboard though - Apple have their own keyboard layout which is a sort of mix of the US (ANSI) layout and the UK (ISO).
