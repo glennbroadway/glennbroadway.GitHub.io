@@ -1,6 +1,10 @@
 ---
-layout: post
-title: Twenty Years Ago Today
+title: "Twenty Years Ago Today"
+date: 2007-08-19T15:34:30-04:00
+categories:
+  - Articles
+tags:
+  - news
 ---
 
 No, not Sgt Pepper - Hungerford. Twenty years ago something happened in this country which I don't think had ever happened before. Certainly not in my lifetime anyway. I was sixteen when I heard the news of the [Hungerford Massacre](http://news.bbc.co.uk/onthisday/hi/dates/stories/august/19/newsid_2534000/2534669.stm). I've just watched the BBC report again, for the first time since it happened, and I've realised how different things were back then.
