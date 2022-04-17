@@ -23,6 +23,7 @@ twitter_username: glennbroadway
 github_username: 
 minimal_mistakes_skin: air
 search: false
+teaser: /assets/images/cubes512x512.png
 
 # Build settings
 markdown: kramdown
@@ -60,7 +61,7 @@ plugins:
 author:
   name   : "Glenn Broadway"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : ""
+  bio    : "A place to keep the things I occasionally write."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
