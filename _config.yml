@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Glenn Broadway
-logo: "/assets/images/Glogo88x88.png"
+title:
+logo: "/assets/images/Glogo512x512.png"
 email: glennbroadway@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The personal website of Glenn Broadway.
 twitter_username: glennbroadway
 github_username: 
-minimal_mistakes_skin: air
+minimal_mistakes_skin: default
 search: false
 # teaser: /assets/images/cubes512x512.jpg
 
