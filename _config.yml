@@ -14,8 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Glenn Broadway
-masthead_title: ""
-logo: "/assets/images/Glogo.svg"
+logo: "/assets/images/Glogo88x88.png"
 email: glennbroadway@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The personal website of Glenn Broadway.
@@ -23,7 +22,7 @@ twitter_username: glennbroadway
 github_username: 
 minimal_mistakes_skin: air
 search: false
-teaser: /assets/images/cubes512x512.jpg
+# teaser: /assets/images/cubes512x512.jpg
 
 # Build settings
 markdown: kramdown
