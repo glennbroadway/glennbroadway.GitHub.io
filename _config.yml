@@ -14,12 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: GB
+subtitle: A place to keep the things I occasionally write.
 email: glennbroadway@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A place to keep the things I occasionally write.
+  The personal website of Glenn Broadway.
 twitter_username: glennbroadway
 github_username: 
-minimal_mistakes_skin: default
+minimal_mistakes_skin: air
 search: false
 
 # Build settings
@@ -58,7 +59,7 @@ plugins:
 author:
   name   : "Glenn Broadway"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Former designer. Presently a thumb twiddler."
+  bio    : ""
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -69,6 +70,9 @@ author:
     - label: "LinedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/glennbroadway/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/glennbroadway"
 
 footer:
   links:
@@ -81,6 +85,9 @@ footer:
     - label: "LinedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/glennbroadway/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/glennbroadway"
 
 defaults:
   # _posts
