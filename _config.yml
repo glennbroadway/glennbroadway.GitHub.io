@@ -102,18 +102,18 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: wide
+      layout: single
       author_profile: false
       read_time: true
-      comments: false
+      comments: true
       share: true
-      related: false
+      related: true
   # _pages
   - scope:
       path: "_pages"
       type: pages
     values:
-      layout: wide
+      layout: single
       author_profile: false
 
 category_archive:
