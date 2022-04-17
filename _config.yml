@@ -13,8 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title:
+title: Glenn Broadway
 logo: "/assets/images/Glogo512x512.png"
+masthead_title: " "
 email: glennbroadway@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The personal website of Glenn Broadway.
@@ -62,6 +63,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "A place to keep the things I occasionally write."
   links:
+    - label: "Email"
+      icon: "fab fa-fw fa-email-square"
+      url: "mailto:glennbroadway@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/glennbroadway"
@@ -77,6 +81,9 @@ author:
 
 footer:
   links:
+    - label: "Email"
+      icon: "fab fa-fw fa-email-square"
+      url: "mailto:glennbroadway@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/glennbroadway"
