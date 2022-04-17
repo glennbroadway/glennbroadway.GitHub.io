@@ -15,7 +15,6 @@
 # in the templates via {{ site.myvariable }}.
 title: Glenn Broadway
 logo: "/assets/images/Glogo512x512.png"
-masthead_title: " "
 email: glennbroadway@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The personal website of Glenn Broadway.
@@ -64,7 +63,7 @@ author:
   bio    : "A place to keep the things I occasionally write."
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fab fa-fw fa-envelope-o"
       url: "mailto:glennbroadway@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -82,7 +81,7 @@ author:
 footer:
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fab fa-fw fa-envelope-o"
       url: "mailto:glennbroadway@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -104,11 +103,11 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
-      comments: true
+      comments: false
       share: true
-      related: true
+      related: false
   # _pages
   - scope:
       path: "_pages"
