@@ -23,7 +23,7 @@ twitter_username: glennbroadway
 github_username: 
 minimal_mistakes_skin: air
 search: false
-teaser: /assets/images/cubes512x512.png
+teaser: /assets/images/cubes512x512.jpg
 
 # Build settings
 markdown: kramdown
