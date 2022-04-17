@@ -47,7 +47,7 @@ Here you can see the completed slice just before the chocolate is applied. We no
 
 The chocolate stage was by far the trickiest. We toyed with melting it down and then trying to pour it back on. To be honest we doubted the chocolate would actually melt, and we knew for a fact that the cake wouldn't stand up to any sort of application process. We decided to just piece the chocolate together like a jigsaw. On top this worked fine; the back was trickier. At one point Eric declared "We're going to have to just pile it up like the zombies in the World War Z trailer trying to get over that wall". A bold analogy, but apt.
 
-![Jaffa cake cake]({{ site.baseurl }}/images/jaffa-9.jpg)
+![Jaffa cake cake]({{ site.baseurl }}/assets/images/jaffa-9.jpg)
 
 Our Slice of Jaffa Cake Cake was completed. We did have a few bits of chocolate left over so I sprinkled them on as a final artistic flourish. It didn't really help raise the aesthetic appeal. We didn't care. Our slice weighed 122g. McVities claim a single Jaffa Cake weighs 12.2g. Somewhere along the line we lost 24.4g of material. Maybe McVities are lying to us (another experiment looms perhaps?)?. Or, most likely, our £5 IKEA scales were rubbish.
 
