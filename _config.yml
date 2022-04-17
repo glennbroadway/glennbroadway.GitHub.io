@@ -102,7 +102,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: wide
       author_profile: false
       read_time: true
       comments: true
