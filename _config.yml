@@ -64,7 +64,7 @@ author:
   bio    : "A place to keep the things I occasionally write."
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-email-square"
+      icon: "fab fa-fw fa-envelope"
       url: "mailto:glennbroadway@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -82,7 +82,7 @@ author:
 footer:
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-email-square"
+      icon: "fab fa-fw fa-envelope"
       url: "mailto:glennbroadway@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
