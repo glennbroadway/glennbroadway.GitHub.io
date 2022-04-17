@@ -102,7 +102,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: wide
       author_profile: false
       read_time: true
       comments: false
@@ -111,10 +111,10 @@ defaults:
   # _pages
   - scope:
       path: "_pages"
-      type: pages
+      type: wide
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 category_archive:
   type: liquid
