@@ -54,8 +54,6 @@ Choosing to back the [Bring Back Morph Kickstarter](https://www.kickstarter.com/
 
 He was and he's lovely.
 
-# {% include gallery caption="" %}
-
 <figure class="third">
     <a href="/assets/images/aardman-01.jpg"><img src="/assets/images/aardman-01.jpg"></a>
     <img src="/assets/images/aardman-02.jpg">
