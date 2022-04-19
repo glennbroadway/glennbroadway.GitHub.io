@@ -14,9 +14,9 @@ Choosing to back the [Bring Back Morph Kickstarter](https://www.kickstarter.com/
 He was and he's lovely.
 
 <figure class="third">
-    <a href="/assets/images/aardman-01-s.jpg"><img src="/assets/images/aardman-01.jpg"></a>
-    <a href="/assets/images/aardman-02-s.jpg"><img src="/assets/images/aardman-02.jpg"></a>
-    <a href="/assets/images/aardman-03-s.jpg"><img src="/assets/images/aardman-03.jpg"></a>
+    <a href="/assets/images/aardman-01.jpg"><img src="/assets/images/aardman-01-s.jpg"></a>
+    <a href="/assets/images/aardman-02.jpg"><img src="/assets/images/aardman-02-s.jpg"></a>
+    <a href="/assets/images/aardman-03.jpg"><img src="/assets/images/aardman-03-s.jpg"></a>
     <figcaption>Aardman HQ, Eric in the Foyer, Some big bunnies.</figcaption>
 </figure>
 
@@ -35,9 +35,9 @@ Next stop was the model making workshop. This hive of activity was home to a sma
 Our journey continued on to the Morph Memory room. Now this definitely was set up for our benefit, but that doesn't matter because it was great. I could have spent two hours in here looking at old photographs (the walls were covered) and exploring the artefacts. In one corner stood a set of scales, the original set I presume, used to weigh out the plasticine for Morph. There was yellow sticker with an M marking the amount needed for our hero - five and three quarter ounces (as Merlin had previously informed me). Peter spent yet more time telling us stories and answering questions.
 
 <figure class="third">
-    <a href="/assets/images/aardman-04-s.jpg"><img src="/assets/images/aardman-04.jpg"></a>
-    <a href="/assets/images/aardman-05-s.jpg"><img src="/assets/images/aardman-05.jpg"></a>
-    <a href="/assets/images/aardman-06-s.jpg"><img src="/assets/images/aardman-06.jpg"></a>
+    <a href="/assets/images/aardman-04.jpg"><img src="/assets/images/aardman-04-s.jpg"></a>
+    <a href="/assets/images/aardman-05.jpg"><img src="/assets/images/aardman-05-s.jpg"></a>
+    <a href="/assets/images/aardman-06.jpg"><img src="/assets/images/aardman-06-s.jpg"></a>
 </figure>
 
 We returned to the room where we started for some refreshments. I was slightly nervous about asking Peter to sign my Aardman book of 3D animation. I needn't have worried; remember Matthew? The no. 1 fan I mentioned? He had a pile of books nearly as tall as me.
@@ -45,8 +45,8 @@ We returned to the room where we started for some refreshments. I was slightly n
 I chatted to Peter about books whilst he was signing my copy and he asked if I had read Richard Williams' book The Animator's Survival Kit. He then casually mentioned "Of course Richard's working here at the moment. He's officially retired, but he asked if he could come and do some work here." One of the dutch animators overheard this and almost fainted. Richard Williams was next door?! For those of you who don't know who Richard Williams is, let's just say he's [quite important in the world of animation](https://youtu.be/h9uPWdSGlDE).
 
 <figure class="half">
-    <a href="/assets/images/aardman-07-s.jpg"><img src="/assets/images/aardman-07.jpg"></a>
-    <a href="/assets/images/aardman-08-s.jpg"><img src="/assets/images/aardman-08.jpg"></a>
+    <a href="/assets/images/aardman-07.jpg"><img src="/assets/images/aardman-07-s.jpg"></a>
+    <a href="/assets/images/aardman-08.jpg"><img src="/assets/images/aardman-08-s.jpg"></a>
 </figure>
 
 We were treated to a seat in Aardman's own screening room where we watched a few choice Morph episodes and got a glimpse of the new Shaun The Sheep movie. Our tour had come to its end and I can honestly say that I don't think that Peter Lord, Merlin, Katie and everyone else that we met, could have done any more to make our Kickstarter reward any more enjoyable.
