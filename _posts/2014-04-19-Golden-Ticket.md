@@ -14,9 +14,9 @@ Choosing to back the [Bring Back Morph Kickstarter](https://www.kickstarter.com/
 He was and he's lovely.
 
 <figure class="third">
-    <a href="/assets/images/aardman-01.jpg"><img src="/assets/images/aardman-01.jpg"></a>
-    <img src="/assets/images/aardman-02.jpg">
-    <img src="/assets/images/aardman-03.jpg">
+    <a href="/assets/images/aardman-01-s.jpg"><img src="/assets/images/aardman-01.jpg"></a>
+    <a href="/assets/images/aardman-02-s.jpg"><img src="/assets/images/aardman-02.jpg"></a>
+    <a href="/assets/images/aardman-03-s.jpg"><img src="/assets/images/aardman-03.jpg"></a>
     <figcaption>Aardman HQ, Eric in the Foyer, Some big bunnies.</figcaption>
 </figure>
 
@@ -30,18 +30,14 @@ We got to see some props and other characters (yes, Nail Brush is making a retur
 
 Before we left, Eric and I tried to commit the 15 episode titles to memory (they were conspicuously pinned to the wall). I'm afraid you'll just have to wait to find out.
 
-<figure style="width: 400px" class="align-right">
-  {% include gallery id="gallery2" caption="" %}
-</figure>
-
 Next stop was the model making workshop. This hive of activity was home to a small group of craftsmen, beavering away on miniature props for the various productions going on at Aardman. A table proudly displayed many of the famous models and characters from Aardman's history and even though I suspect it had been arranged purely for our benefit it was great to see the Cuprinol man, the blue Amigo Loans guy and dozens of other familiar faces up close.
 
 Our journey continued on to the Morph Memory room. Now this definitely was set up for our benefit, but that doesn't matter because it was great. I could have spent two hours in here looking at old photographs (the walls were covered) and exploring the artefacts. In one corner stood a set of scales, the original set I presume, used to weigh out the plasticine for Morph. There was yellow sticker with an M marking the amount needed for our hero - five and three quarter ounces (as Merlin had previously informed me). Peter spent yet more time telling us stories and answering questions.
 
 <figure class="third">
-    <a href="/assets/images/aardman-04.jpg"><img src="/assets/images/aardman-04.jpg"></a>
-    <img src="/assets/images/aardman-05.jpg">
-    <img src="/assets/images/aardman-06.jpg">
+    <a href="/assets/images/aardman-04-s.jpg"><img src="/assets/images/aardman-04.jpg"></a>
+    <a href="/assets/images/aardman-05-s.jpg"><img src="/assets/images/aardman-05.jpg"></a>
+    <a href="/assets/images/aardman-06-s.jpg"><img src="/assets/images/aardman-06.jpg"></a>
 </figure>
 
 We returned to the room where we started for some refreshments. I was slightly nervous about asking Peter to sign my Aardman book of 3D animation. I needn't have worried; remember Matthew? The no. 1 fan I mentioned? He had a pile of books nearly as tall as me.
@@ -49,12 +45,12 @@ We returned to the room where we started for some refreshments. I was slightly n
 I chatted to Peter about books whilst he was signing my copy and he asked if I had read Richard Williams' book The Animator's Survival Kit. He then casually mentioned "Of course Richard's working here at the moment. He's officially retired, but he asked if he could come and do some work here." One of the dutch animators overheard this and almost fainted. Richard Williams was next door?! For those of you who don't know who Richard Williams is, let's just say he's [quite important in the world of animation](https://youtu.be/h9uPWdSGlDE).
 
 <figure class="half">
-    <a href="/assets/images/aardman-07.jpg"><img src="/assets/images/aardman-07.jpg"></a>
-    <img src="/assets/images/aardman-08.jpg">
+    <a href="/assets/images/aardman-07-s.jpg"><img src="/assets/images/aardman-07.jpg"></a>
+    <a href="/assets/images/aardman-08-s.jpg"><img src="/assets/images/aardman-08.jpg"></a>
 </figure>
 
 We were treated to a seat in Aardman's own screening room where we watched a few choice Morph episodes and got a glimpse of the new Shaun The Sheep movie. Our tour had come to its end and I can honestly say that I don't think that Peter Lord, Merlin, Katie and everyone else that we met, could have done any more to make our Kickstarter reward any more enjoyable.
 
 Aardman is a magical place, the walls are adorned with beautiful, whimsical illustrations; every room is filled with miniature treasures; even the elevator warns you to "Mind the doors Gromit!" with the instantly recognisable voice of Peter Sallis. I'm so proud to have been a part of the Bring Back Morph campaign, and I have a sneaking suspicion that we might see another Kickstarter appeal at some point, maybe for a much larger scale project.
 
-![]({{ site.baseurl }}/assets/images/aardman-group.jpg)
+[![]({{ site.baseurl }}/assets/images/aardman-group.jpg)](/assets/images/aardman-group.jpg)
