@@ -54,7 +54,14 @@ Choosing to back the [Bring Back Morph Kickstarter](https://www.kickstarter.com/
 
 He was and he's lovely.
 
-{% include gallery caption="" %}
+# {% include gallery caption="" %}
+
+<figure class="third">
+    <a href="/assets/images/aardman-01.jpg"><img src="/assets/images/aardman-01.jpg"></a>
+    <img src="/assets/images/aardman-02.jpg">
+    <img src="/assets/images/aardman-03.jpg">
+    <figcaption>Aardman HQ, Eric in the Foyer, Some big bunnies.</figcaption>
+</figure>
 
 We arrived at the Aardman studio in Bristol just after lunch and there were already one or two others waiting in the foyer (a young lad with his dad; a chap called Matthew, who it turns out is the world's no. 1 Wallace & Gromit fan, with his mum). We were joined by four others, including a couple of animators who had flown over from Amsterdam. Whilst we were marvelling at the models and sets on display in the lobby Peter came down and introduced himself to us all. I shook the hand that had animated [War Story](https://www.youtube.com/watch?v=UAhcbXeKJ3Y) and [Adam](https://www.youtube.com/watch?v=CnVMtQe-2YM). And [Morph](https://www.youtube.com/channel/UCL7N5wBrbp0J4vU46KWTWtQ?sub_confirmation=1&src_vid=eyjXLfrojDE&feature=iv&annotation_id=annotation_3967251239).
 
