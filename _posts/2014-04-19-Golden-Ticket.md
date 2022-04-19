@@ -5,19 +5,6 @@ categories:
   - Articles
 tags:
   - personal
-gallery:
-  - url: /assets/images/aardman-01.jpg
-    image_path: /assets/images/aardman-01-s.jpg
-    alt: ""
-    title: "Aardman Animations HQ, Bristol"
-  - url: /assets/images/aardman-02.jpg
-    image_path: /assets/images/aardman-02-s.jpg
-    alt: ""
-    title: "Eric in the Aardman Animations lobby"
-  - url: /assets/images/aardman-03.jpg
-    image_path: /assets/images/aardman-03-s.jpg
-    alt: ""
-    title: ""
 gallery2:
   - url: /assets/images/aardman-04.jpg
     image_path: /assets/images/aardman-04-s.jpg
