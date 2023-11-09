@@ -1,9 +1,10 @@
 ---
 layout: single
+title: "Hello..."
 classes: wide
 ---
 
-I'm excited to say I'm working on a video games again, with my old friends at [Bitmap Bureau]: https://bitmapbureau.com . I couldn't be happier. Find out more about me here.
+I'm excited to say I'm working on a video games again, with my old friends at [Bitmap Bureau](https://bitmapbureau.com) . I couldn't be happier. Find out more about me here.
 
 ## Old Articles
 
