@@ -14,7 +14,7 @@ I decided to delete my old Squarespace blog, but I archived a few articles here.
 All The Games I Ever Worked On  
 Funy Monkey - An Unfinished Amiga Game  
 My Part In Creating SWIV 3D  
-[iOS Game Perfection](/_pages/2019-05-11-iOS-Game-Perfection.html)  
+[iOS Game Perfection](/pages/2019-05-11-iOS-Game-Perfection)  
 A Heartwarming Tale Of Digital Literacy And Resilience  
 A Slice of Jaffa Cake Cake  
 I've Got A Golden Ticket  
