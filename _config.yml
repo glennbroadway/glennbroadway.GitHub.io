@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-# title: Glenn Broadway
-# logo: "/assets/images/Glogo512x512.png"
+title:  
+logo: "/assets/images/Glogo512x512.png"
 email: glennbroadway@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The personal website of Glenn Broadway.
@@ -59,8 +59,7 @@ plugins:
 
 author:
   name   : "Glenn Broadway"
-  avatar : "/assets/images/Glogo512x512.png"
-  #avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "A place to keep the things I occasionally write."
   links:
     - label: "Email"
@@ -121,7 +120,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 category_archive:
   type: liquid
