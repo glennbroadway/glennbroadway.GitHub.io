@@ -1,5 +1,5 @@
 main:
-  - title: "Articles"
-    url: /posts/
+  - title: "Home"
+    url: https://glennbroadway.github.io
   - title: "About"
     url: /about/
