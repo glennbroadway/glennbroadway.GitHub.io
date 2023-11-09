@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Hello..."
+author_profile: true
 classes: wide
 ---
 

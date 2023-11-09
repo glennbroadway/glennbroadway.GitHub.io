@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 classes: wide
+author_profile: true
 title: "Hello..."
 ---
 
