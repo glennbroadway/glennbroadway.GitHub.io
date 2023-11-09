@@ -1,5 +1,5 @@
 main:
   - title: "Home"
-    url: https://glennbroadway.github.io
+    url: {{ site.baseurl }}
   - title: "About"
     url: /about/
