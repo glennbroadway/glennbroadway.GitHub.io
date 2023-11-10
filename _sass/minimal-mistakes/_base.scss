@@ -265,6 +265,19 @@ figure {
       width: 100%;
     }
   }
+
+      &.sixth {
+    > a,
+    > img {
+      @include breakpoint($small) {
+        width: calc(16.6666% - 0.5em);
+      }
+    }
+
+    figcaption {
+      width: 100%;
+    }
+  }
 }
 
 /* Figure captions */
