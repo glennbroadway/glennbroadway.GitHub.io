@@ -3,6 +3,7 @@ permalink: /about/
 classes: wide
 author_profile: true
 title: "Hello..."
+layout: single
 ---
 
 Thanks for visiting my website. Here's a little information about me, in case we haven't met. Or maybe we have met, but I remain a mystery to you (unlikely).

@@ -3,6 +3,7 @@ title: "A Slice of Jaffa Cake Cake"
 date: 2015-11-08T15:34:30-04:00
 permalink: /pages/2015-11-08-A-Slice-of-Jaffa-Cake-Cake/
 classes: wide
+layout: single
 author_profile: true
 ---
 

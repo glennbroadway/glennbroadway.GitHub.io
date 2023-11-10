@@ -3,6 +3,7 @@ title: "Let's Make Morph"
 date: 2009-03-04T15:34:30-04:00
 permalink: /pages/2009-03-04-Lets-Make-Morph/
 classes: wide
+layout: single
 author_profile: true
 ---
 

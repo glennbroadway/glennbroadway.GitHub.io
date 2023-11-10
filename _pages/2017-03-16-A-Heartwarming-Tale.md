@@ -3,6 +3,7 @@ title: "A Heartwarming Tale Of Digital Literacy And Resilience"
 date: 2017-03-16T11:30:30-04:00
 permalink: /pages/2017-03-16-A-Heartwarming-Tale/
 classes: wide
+layout: single
 author_profile: true
 ---
 

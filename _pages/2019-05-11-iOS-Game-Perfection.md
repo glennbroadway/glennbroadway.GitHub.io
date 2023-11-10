@@ -3,6 +3,7 @@ title: "iOS Game Perfection"
 date: 2019-05-11T15:34:30-04:00
 permalink: /pages/2019-05-11-iOS-Game-Perfection/
 classes: wide
+layout: single
 author_profile: true
 ---
 
