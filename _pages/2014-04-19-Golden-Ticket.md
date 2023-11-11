@@ -2,7 +2,6 @@
 title: "I've Got a Golden Ticket"
 date: 2014-04-19T15:34:30-04:00
 permalink: /pages/2014-04-19-Golden-Ticket/
-classes: wide
 layout: single
 author_profile: false
 ---

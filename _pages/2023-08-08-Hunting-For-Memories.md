@@ -2,7 +2,6 @@
 title: "Hunting For Memories"
 date: 2023-08-08T11:30:30-04:00
 permalink: /pages/2023-08-08-Hunting-For-Memories/
-classes: wide
 layout: single
 author_profile: false
 ---
