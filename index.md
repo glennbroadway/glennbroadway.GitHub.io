@@ -1,8 +1,7 @@
 ---
 layout: single
 title: "Hello..."
-author_profile: true
-classes: wide
+author_profile: false
 ---
 
 I'm excited to say I'm working on a video games again, with my old friends at [Bitmap Bureau](https://bitmapbureau.com) . I couldn't be happier. Find out more about me [here](/about/).
