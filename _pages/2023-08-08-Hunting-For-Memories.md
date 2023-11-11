@@ -4,7 +4,7 @@ date: 2023-08-08T11:30:30-04:00
 permalink: /pages/2023-08-08-Hunting-For-Memories/
 classes: wide
 layout: single
-author_profile: true
+author_profile: false
 ---
 
 If you’ve met me before then you’ve heard this story, because I tell everyone. When I was about ten I managed to achieve the dream - my picture was featured on Tony Hart’s Gallery.

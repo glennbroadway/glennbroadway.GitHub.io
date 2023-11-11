@@ -4,7 +4,7 @@ date: 2017-03-16T11:30:30-04:00
 permalink: /pages/2017-03-16-A-Heartwarming-Tale/
 classes: wide
 layout: single
-author_profile: true
+author_profile: false
 ---
 
 Last night [a thread appeared on the ‘buildapc’ section of Reddit](https://np.reddit.com/r/buildapc/comments/5zjt8e/first_time_build_will_not_power_up/) that, to me, perfectly encapsulates how technology is completely embedded in the lives of young people. The first message was posted by Colby, aged 10, who was having trouble building his new PC.

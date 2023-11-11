@@ -4,7 +4,7 @@ date: 2015-11-08T15:34:30-04:00
 permalink: /pages/2015-11-08-A-Slice-of-Jaffa-Cake-Cake/
 classes: wide
 layout: single
-author_profile: true
+author_profile: false
 ---
 
 This weekend Eric (son 2) made an observation about Jaffa Cakes. Everyone knows that opening a new tube to eat one or two will always end with the inevitable consumption of the lot, accompanied by a warranted pang of guilt. But should we feel guilty? Jaffa Cakes are pretty small and there are only twelve in a tube. If you clumped them all together would they really add up to more than a generous slice of cake?

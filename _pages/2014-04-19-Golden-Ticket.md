@@ -4,7 +4,7 @@ date: 2014-04-19T15:34:30-04:00
 permalink: /pages/2014-04-19-Golden-Ticket/
 classes: wide
 layout: single
-author_profile: true
+author_profile: false
 ---
 
 I once met [Rutger Hauer](http://www.imdb.com/name/nm0000442/). And [Syd Mead](http://en.wikipedia.org/wiki/Syd_Mead). I've chatted to [Eugene Jarvis](http://en.wikipedia.org/wiki/Eugene_Jarvis), [Alexey Pajitnov](http://en.wikipedia.org/wiki/Alexey_Pajitnov) and [Mark Cerny](http://en.wikipedia.org/wiki/Mark_Cerny). I spent a week in South Korea with [Sir Ian Livingstone](http://en.wikipedia.org/wiki/Ian_Livingstone). I've pretty much met most of the people that I would have, at one point or another, considered heroes. Last week I met another.
