@@ -19,9 +19,9 @@ I first encountered Images Software when I was there collecting Jim, the bass pl
 I had never created graphics for a game before but I did have some experience working in Art Director on the Atari ST. Images had an original platform game, called Monkey Business, early in development. It needed art and I began work on it. Fairly soon, however, the game was halted and in its a place a new game was born. I redesigned the central character and renamed him Funky Monkey. We spent a few months in development before I moved on. There’s a more detailed account here.
 
 <figure class="third">
-    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/Funky01.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/Funky01.jpg"></a>
-    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/Funky02.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/Funky02.jpg"></a>
-    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/FunkySprites.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/FunkySprites.jpg"></a>
+    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/allthegames/Funky01.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/allthegames/Funky01.jpg"></a>
+    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/allthegames/Funky02.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/allthegames/Funky02.jpg"></a>
+    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/allthegames/FunkySprites.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/allthegames/FunkySprites.jpg"></a>
 </figure>
 
 ### Extra
