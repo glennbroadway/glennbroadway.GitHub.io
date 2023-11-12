@@ -18,7 +18,7 @@ I first encountered Images Software when I was there collecting Jim, the bass pl
 
 I had never created graphics for a game before but I did have some experience working in Art Director on the Atari ST. Images had an original platform game, called Monkey Business, early in development. It needed art and I began work on it. Fairly soon, however, the game was halted and in its a place a new game was born. I redesigned the central character and renamed him Funky Monkey. We spent a few months in development before I moved on. There’s a more detailed account here.
 
-<figure class="half">
+<figure class="third">
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-green1.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-green1.png"></a>
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-arctic8.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-arctic8.png"></a>
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-lunar2.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-lunar2.png"></a>
@@ -35,12 +35,75 @@ I may also have had a tiny involvement with The Hunt For Red October\* on the ZX
 
 *1993–1998*
 
-<figure>
+<figure  style="width: 350px" class="align-right">
   <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/Swiv3Des.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/Swiv3Des.jpg" alt="3Design"></a>
-  <figcaption>3Design and Photoshop being used to create graphics for the game.</figcaption>
+  <figcaption>John Chasey, Russ Dunham, Fergus McNeill, Me, Virgil Manning, Bob Plested, Steve Aplin, Steve Haggerty.</figcaption>
 </figure>
 
-For the full motion video sequences (FMV) I believe we used Alias PowerAnimator. We rendered out the shots that had been roughly planned on little storyboards, and then edited them together using Wavefront Composer, another unique tool. The game starts in a fairly green environment, moves to a more arctic setting and then the player hitches a ride to the moon. From here they are transported to Mars for the final set of levels. I was quite into the [Fortean Times](https://en.wikipedia.org/wiki/Fortean_Times) in the early nineties (Bob Lazaar, Aliens, etc.) and there was a big hoo-ha about [a ‘face’ on Mars](https://en.wikipedia.org/wiki/Cydonia_(Mars)). I incorporated this into the game and it became the final boss.
+I was one of the first employees at SCi’s Southampton studio, which had been set up to develop their first CD ROM based PC Game. It was a joint venture between The Sales Curve (as they were then known) and Clem Chambers' company On-Line Entertainment. It was a baptism of fire.
+
+### Lawnmower Man
+
+It’s amazing what people will buy when they have forked out for an expensive piece of hardware and there’s hardly anything that’ll work on it.
+
+<figure class="third">
+    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-green1.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-green1.png"></a>
+    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-arctic8.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-arctic8.png"></a>
+    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-lunar2.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-lunar2.png"></a>
+    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-mars1.png"><img src="/assets/images/SWIV3D/swiv3d-mars1.png"></a>
+</figure>
+
+### Cyberwar
+
+The Lawnmower Man may have been a weak game, but it sold well enough for SCi to want to continue making CD ROM based games. A sequel was spawned. It is effectively the same game, with some new clips, all running a higher res with more colours.
+
+<figure class="third">
+    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-green1.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-green1.png"></a>
+    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-arctic8.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-arctic8.png"></a>
+    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-lunar2.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-lunar2.png"></a>
+    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-mars1.png"><img src="/assets/images/SWIV3D/swiv3d-mars1.png"></a>
+</figure>
+
+### Kingdom 'O Magic
+
+I worked as an artist on this point and click adventure from the mind of Fergus McNeill.
+
+<figure class="third">
+    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-green1.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-green1.png"></a>
+    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-arctic8.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-arctic8.png"></a>
+    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-lunar2.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-lunar2.png"></a>
+    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-mars1.png"><img src="/assets/images/SWIV3D/swiv3d-mars1.png"></a>
+</figure>
+
+### Swiv 3D
+
+We convinced SCi to make a 3D sequel to SWIV and I got the job of designing the game. It ended up being a group effort between many people at SCi, not least, James Sharman - the lead programmer and technical wizard behind the unique landscape engine in the game. Find out more about the game's development here.
+
+<figure class="third">
+    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-green1.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-green1.png"></a>
+    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-arctic8.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-arctic8.png"></a>
+    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-lunar2.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-lunar2.png"></a>
+    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-mars1.png"><img src="/assets/images/SWIV3D/swiv3d-mars1.png"></a>
+</figure>
+
+### Extra
+
+I completed an elaborate 3D intro sequence for Frenzy on PS1 before it changed its name from Full Metal Pigeon (as seen at the end of this video). I made a few small contributions to Caramgeddon 2: Carpocalypse Now. We also started work on a turn based game called Spellcaster.
+
+## io productions
+
+*1998–2000*
+
+<figure  style="width: 350px" class="align-right">
+  <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/Swiv3Des.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/Swiv3Des.jpg" alt="3Design"></a>
+  <figcaption>Me, Nick Slaven, Andy Bain, Nick Reed, John Chasey, Paul Charisse, Mike Tucker, Duncan Wilson, Steve Wadsworth.</figcaption>
+</figure>
+
+We left SCi and formed io productions. Our goal was to get a publishing deal for our sheep herding game, **Stampede!** We just managed to strike a deal with Infogrammes before running out of redundancy money. Sadly, however, that game would never be completed.
+
+### Stampede! [unreleased]
+
+The original idea of creating a sheep herding game came from Andy’s girlfriend, I think. By the time we struck a deal with Infogrammes we had decided it would be a madcap, global adventure, featuring herds of various animals in strange environments. The story of its development and eventual cancellation is long and detailed - some more info can be found on [Nick Reed’s website](http://www.radivarl.com/work/1998-1999.php).
 
 <figure class="fifth">
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3D-box-art.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3D-box-art-s.jpg"></a>
@@ -60,11 +123,124 @@ For the full motion video sequences (FMV) I believe we used Alias PowerAnimator.
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-level-outlines.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-level-outlines-s.jpg"></a>
 </figure>
 
-I produced all of the 2D graphics. The early levels were preceded by a short mission briefing (which actually used a top down render of the level map). I created a bitmap font (Futura bold italic I think) and the in-game on-screen graphics. These comprised a little map bezel that span around in the corner (modelled and rendered in 3D) and some power-up icons that stacked up on the left hand side of the screen as you picked them up. Finally there was a 3D font that was used in game whenever a pick up was collected or when an objective was destroyed.
+### Extra
 
-## SWIV 3D Assault
+<figure  style="width: 350px" class="align-right">
+  <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/Swiv3Des.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/Swiv3Des.jpg" alt="3Design"></a>
+  <figcaption>MUD 2 Client.</figcaption>
+</figure>
 
-For the US release of the game we added an extra set of levels, which took place on the alien home world. There were also a couple of new animated sequences linking these levels to the existing game. [Here is video I compiled of all the FMV sequences from the game](https://youtu.be/1qRdKur3UXo) (also shown below). I can’t find any game play footage from these final levels, although I do have access to a copy of SWIV 3D Assault so hope to be able to grab some.
+We developed a **MUD 2** client for BT/Wireplay, but I’m not sure it was ever let loose on the public. We started work on a web based space warfare sim called **Wetwar**, which was heavily inspired by [Planetarion](http://www.planetarion.com/). We also created promo movies for a Robot Wars style game called **Smashbots**, and started prototyping a liquid puzzle/action game called **Mercuranium** (almost identical to the PSP game Mercury which came much later).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1qRdKur3UXo?si=dyq-P53nJVVZpOMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+##IOMO
 
+*2000–2005*
+
+We started this company to work on WAP content for Nokia. By the time it was acquired by Infospace we had 30+ employees and were making mobile games for countless devices. These aren’t ALL the games IOMO made, but I think I was involved in these in one way or another. Note: Many different programmers and artists worked on these games, including me, but most notably **Cameron Kerr**, who created an incredible amount of pixel art in the early days of mobile development. By the end of my time at IOMO the teams making the mobile games were basically autonomous - we’d get the contract, come up with a rough outline and they programmers and artists would do all the hard work. I ended just doing proposals and marketing, but it was still great fun.
+
+### WAP Games
+
+WAP was the first method for accessing the internet on mobile phones. The protocol was kind of a stripped down HTML - and it only lasted a few years. As a result, it is very difficult to find any WAP sites or games still in action.
+
+| Blinker Thinker | Little Louise and the Smelly Garden | Thief: Constantines Sword |
+
+Blinker Thinker
+d2n8
+Dial A Word
+Dinosaur Trumps
+Find The Pea
+Fortune Cookie
+Inflitrator
+Little Louise and the Smelly Garden
+Magic 8 Ball
+Numba Rumba
+Operator Logos
+Pass The Egg
+Pathfinder
+Robomaze
+Robot Run
+Runway
+Scooby-Doo
+Slider
+Star Corps
+Stranded
+Strike Out!
+Swingville
+Tama Cutie
+Tamacutie
+The Dating Game
+Thief: Constantines Sword
+Thunderbirds
+Time Thief
+Wap Fishing
+WAP Golf
+Wap Hunter
+WAPpet
+Wapundrum
+Wentworth Golf
+
+### On Device Games
+
+IOMO developed several games that shipped on new phones. Mostly for Nokia.
+
+Adventure Race
+Golf
+Jedi Trainer
+Munkiki’s Castle
+Olly Pekka
+Skydiver
+Snake 2
+Snake EX 2
+Snakes
+Triplepop
+
+### J2ME Games
+Exen Football
+Scooby Doo
+Stuntman (x3)
+Tomb Raider (x3)
+Tiger Woods Golf
+Golf Club
+Treasure Planet
+Finding Nemo
+Monopoly
+007 Hover Chase
+Quarantine
+Pub Arcade
+Fight Club
+FPR Superbikes
+Steve Davis Snooker
+Enigma
+Picasso
+Super Bloc Bloc
+Blongo
+Thief: Deadly Shadows 1 & 2
+Badger Bash
+Magnetron
+Slider
+X-Change
+Pursuit Squad
+Colin McRae Rally 2005
+Hyper Typer
+Pub Pool
+Pub Darts
+Pub Fruity
+Pub Pinball
+Pub Fight
+
+## Metismo
+
+*2007–2011*
+
+Metismo were not a game developer, but instead we made tools for others to use. Minds greater than mine were responsible for the software we licenced out - but its main function was to allow deployment of apps to multiple mobile platforms from a single code base.
+
+### Vektrax
+
+*Vektrax* was created to demonstrate some of the features of our product, Bedrock. It wasn’t the greatest game ever made, but it was early on in the world of iOS and it was unique.
+
+<figure class="third">
+    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-green1.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-green1.png"></a>
+    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-arctic8.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-arctic8.png"></a>
+    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-lunar2.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-lunar2.png"></a>
+    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-mars1.png"><img src="/assets/images/SWIV3D/swiv3d-mars1.png"></a>
+</figure>
