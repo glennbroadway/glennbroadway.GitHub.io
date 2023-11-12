@@ -137,7 +137,7 @@ We started this company to work on WAP content for Nokia. By the time it was acq
 
 WAP was the first method for accessing the internet on mobile phones. The protocol was kind of a stripped down HTML - and it only lasted a few years. As a result, it is very difficult to find any WAP sites or games still in action.
 
-```
+
 Blinker Thinker
 d2n8
 Dial A Word
@@ -172,13 +172,13 @@ Wap Hunter
 WAPpet
 Wapundrum
 Wentworth Golf
-```
+{: .notice}
 
 ### On Device Games
 
 IOMO developed several games that shipped on new phones. Mostly for Nokia.
 
-```
+
 Adventure Race
 Golf
 Jedi Trainer
@@ -189,10 +189,10 @@ Snake 2
 Snake EX 2
 Snakes
 Triplepop
-```
+{: .notice}
 
 ### J2ME Games
-```
+
 Exen Football
 Scooby Doo
 Stuntman (x3)
@@ -225,7 +225,7 @@ Pub Darts
 Pub Fruity
 Pub Pinball
 Pub Fight
-```
+{: .notice}
 
 ## Metismo
 
