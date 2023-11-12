@@ -22,7 +22,6 @@ I had never created graphics for a game before but I did have some experience wo
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-green1.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-green1.png"></a>
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-arctic8.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-arctic8.png"></a>
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-lunar2.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-lunar2.png"></a>
-    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-mars1.png"><img src="/assets/images/SWIV3D/swiv3d-mars1.png"></a>
 </figure>
 
 ### Extra
@@ -50,7 +49,6 @@ It’s amazing what people will buy when they have forked out for an expensive p
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-green1.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-green1.png"></a>
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-arctic8.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-arctic8.png"></a>
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-lunar2.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-lunar2.png"></a>
-    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-mars1.png"><img src="/assets/images/SWIV3D/swiv3d-mars1.png"></a>
 </figure>
 
 ### Cyberwar
@@ -61,7 +59,6 @@ The Lawnmower Man may have been a weak game, but it sold well enough for SCi to 
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-green1.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-green1.png"></a>
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-arctic8.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-arctic8.png"></a>
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-lunar2.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-lunar2.png"></a>
-    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-mars1.png"><img src="/assets/images/SWIV3D/swiv3d-mars1.png"></a>
 </figure>
 
 ### Kingdom 'O Magic
@@ -72,7 +69,6 @@ I worked as an artist on this point and click adventure from the mind of Fergus 
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-green1.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-green1.png"></a>
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-arctic8.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-arctic8.png"></a>
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-lunar2.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-lunar2.png"></a>
-    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-mars1.png"><img src="/assets/images/SWIV3D/swiv3d-mars1.png"></a>
 </figure>
 
 ### Swiv 3D
@@ -83,7 +79,6 @@ We convinced SCi to make a 3D sequel to SWIV and I got the job of designing the 
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-green1.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-green1.png"></a>
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-arctic8.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-arctic8.png"></a>
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-lunar2.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-lunar2.png"></a>
-    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-mars1.png"><img src="/assets/images/SWIV3D/swiv3d-mars1.png"></a>
 </figure>
 
 ### Extra
@@ -132,7 +127,7 @@ The original idea of creating a sheep herding game came from Andy’s girlfriend
 
 We developed a **MUD 2** client for BT/Wireplay, but I’m not sure it was ever let loose on the public. We started work on a web based space warfare sim called **Wetwar**, which was heavily inspired by [Planetarion](http://www.planetarion.com/). We also created promo movies for a Robot Wars style game called **Smashbots**, and started prototyping a liquid puzzle/action game called **Mercuranium** (almost identical to the PSP game Mercury which came much later).
 
-##IOMO
+## IOMO
 
 *2000–2005*
 
@@ -142,8 +137,7 @@ We started this company to work on WAP content for Nokia. By the time it was acq
 
 WAP was the first method for accessing the internet on mobile phones. The protocol was kind of a stripped down HTML - and it only lasted a few years. As a result, it is very difficult to find any WAP sites or games still in action.
 
-| Blinker Thinker | Little Louise and the Smelly Garden | Thief: Constantines Sword |
-
+```
 Blinker Thinker
 d2n8
 Dial A Word
@@ -178,11 +172,13 @@ Wap Hunter
 WAPpet
 Wapundrum
 Wentworth Golf
+```
 
 ### On Device Games
 
 IOMO developed several games that shipped on new phones. Mostly for Nokia.
 
+```
 Adventure Race
 Golf
 Jedi Trainer
@@ -193,8 +189,10 @@ Snake 2
 Snake EX 2
 Snakes
 Triplepop
+```
 
 ### J2ME Games
+```
 Exen Football
 Scooby Doo
 Stuntman (x3)
@@ -227,6 +225,7 @@ Pub Darts
 Pub Fruity
 Pub Pinball
 Pub Fight
+```
 
 ## Metismo
 
@@ -242,5 +241,4 @@ Metismo were not a game developer, but instead we made tools for others to use. 
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-green1.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-green1.png"></a>
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-arctic8.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-arctic8.png"></a>
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-lunar2.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-lunar2.png"></a>
-    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/SWIV3D/swiv3d-mars1.png"><img src="/assets/images/SWIV3D/swiv3d-mars1.png"></a>
 </figure>
