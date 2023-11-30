@@ -1,11 +1,11 @@
 ---
-permalink: /about/
-author_profile: false
-title: "Hello..."
-layout: single
+title: About
+description:
+subtitle:
+featured_image:
 ---
 
-Thanks for visiting my website. Here's a little information about me, in case we haven't met. Or maybe we have met, but I remain a mystery to you (unlikely).
+<!-- ![](/images/demo/demo-landscape.jpg) -->
 
 ## Work
 
@@ -18,3 +18,5 @@ Prior to that I always went with Game Designer, but to be honest it has been a w
 ## Interests
 
 My personal interests cross over with my work in many ways. I like to play strategy board games and Texas Hold 'em poker and I've got no excuse for not writing or illustrating more in my spare time. Other pastimes include Kubb, piano, film, puzzles, comic books, tea, camper vans and plenty of other, far more pointless pursuits.
+
+<!-- <a href="https://jekyllthemes.io/theme/simples-blog-jekyll-theme" class="button button--large">Get This Theme</a> -->
