@@ -13,7 +13,7 @@ menu_settings:
     - title: 'Home'
       url: '/'
     - title: 'Articles'
-      url: '/projects/'
+      url: '/blog'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
@@ -63,7 +63,7 @@ color_settings:
   text_medium_color: '#4D4D4A'
   text_light_color: '#ABB7B7'
   accent_color: '#03CBDC'
-  border_color: '#f7d7b6'
+  border_color: '#03CBDC'
   overlay_background_color: '#161B21'
   overlay_text_color: '#ffffff'
   error_color: '#D64541'
@@ -150,12 +150,12 @@ font_settings:
     letter_spacing: 0
     line_height: 1.4
   blockquote:
-    small_size: 25
-    medium_size: 35
-    large_size: 45
+    small_size: 20
+    medium_size: 25
+    large_size: 35
     weight: 300
     letter_spacing: -0.02
-    line_height: 1.6
+    line_height: 1.2
   buttons:
     weight: 600
     letter_spacing: 0.03

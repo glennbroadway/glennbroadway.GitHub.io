@@ -11,7 +11,7 @@ collections:
     output: true
     permalink: /blog/:slug
   projects:
-    output: true
+    output: false
     permalink: /project/:slug
 
 defaults:
