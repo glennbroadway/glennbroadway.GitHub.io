@@ -1,35 +1,70 @@
+<!-- begin header -->
 <header class="header">
+  <div class="container-big">
+    <div class="row">
+      <div class="header__inner col col-12">
 
-	<div class="wrap">
+        <div class="logo">
+          <a class="logo__link" href="{{ site.baseurl }}/">
+          {% if site.data.settings.logo %}
+            <img class="logo__image" src="{{ site.baseurl }}{{ site.data.settings.logo }}" alt="{{ site.data.settings.title }}">
+          {% else %}
+            {{ site.data.settings.title }}
+          {% endif %}
+          </a>
+        </div>
 
-		{% if site.data.settings.header_settings.avatar_image %}
-		<a href="{{ site.baseurl }}/" class="header__avatar">
-			<img src="{{ site.data.settings.header_settings.avatar_image | relative_url }}" class="header__avatar__img">
-		</a>
-		{% endif %}
+        <nav class="main-nav">
+          <div class="main-nav__box">
+            <ul class="nav__list list-reset">
 
-		{% if site.data.settings.header_settings.logo_image %}
-		<a href="{{ site.baseurl }}/" class="header__logo">
-			<img src="{{ site.data.settings.header_settings.logo_image | relative_url }}" class="header__logo__img">
-		</a>
-		{% else %}
-		<a href="{{ site.baseurl }}/" class="header__title">
-			{{ site.data.settings.basic_settings.site_title }}
-		</a>
-		{% endif %}
+              {% for item in site.data.settings.menu__settings.menu__items %}
+                {% if item.submenu %}
+                <li class="nav__item dropdown">
+                  <span class="nav__link dropdown-toggle">{{ item.title }} <i class="ion ion-ios-arrow-down arrow-down"></i></span>
+                  <div class="dropdown-menu">
+                    {% for submenu-item in item.submenu %}
+                      <a href="{{ submenu-item.url }}" class="nav__link{% if page.url == submenu-item.url %} active-link{% endif %}">{{submenu-item.title}}</a>
+                    {% endfor %}
+                  </div>
+                </li>
+                {% else %}
+                <li class="nav__item">
+                  <a href="{{ item.url | relative_url }}" class="nav__link{% if page.url == item.url %} active-link{% endif %}">{{ item.title }}</a>
+                </li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </div>
+        </nav>
 
-		<p class="header__tagline">{{ site.data.settings.basic_settings.site_tagline }}</p>
+        <div class="nav-button">
+          <div class="hamburger">
+            <div></div>
+          </div>
+          {% if site.data.settings.color_scheme == "auto" %}
+          <div class="toggle-theme toggle-theme-js">
+            <span class="toggle-moon" title="Enable dark mode" aria-hidden="true"></span>
+            <span class="toggle-sun" title="Enable light mode" aria-hidden="true"></span>
+          </div>
+          {% elsif site.data.settings.color_scheme == "light" %}
+          <div class="toggle-theme theme-light">
+            <span class="toggle-sun" title="Light mode enabled" aria-hidden="true"></span>
+          </div>
+          {% elsif site.data.settings.color_scheme == "dark" %}
+          <div class="toggle-theme theme-dark">
+            <span class="toggle-moon" title="Dark mode enabled" aria-hidden="true"></span>
+          </div>
+          {% else %}
+          <div class="toggle-theme toggle-theme-js">
+            <span class="toggle-moon" title="Enable dark mode" aria-hidden="true"></span>
+            <span class="toggle-sun" title="Enable light mode" aria-hidden="true"></span>
+          </div>
+          {% endif %}
+        </div>
 
-		<div class="menu">
-			<ul class="menu__list">
-				{% for item in site.data.settings.menu_settings.menu_items %}
-				<li class="menu__list__item">
-					<a href="{{ item.url | relative_url }}" class="menu__list__item__link">{{ item.title }}</a>
-				</li>
-				{% endfor %}
-			</ul>
-		</div>
-
-	</div>
-
+      </div>
+    </div>
+  </div>
 </header>
+<!-- end header -->

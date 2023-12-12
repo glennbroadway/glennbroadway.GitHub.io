@@ -1,8 +1,10 @@
 ---
+layout: post
 title: 'Funky Monkey - An Unfinished Amiga Game'
 date: 2022-05-28 15:30:00
-featured_image: 
-excerpt: One of the first games I ever worked on was a never completed platformer called Funky Monkey. 
+image: '/images/funkymonkey/funky-thumbnail.jpg'
+description: One of the first games I ever worked on was a never completed platformer called Funky Monkey.
+tags: [game dev]
 ---
 
 I thought I would collect together all the material I had relating to the first real video game I ever worked on. (A complete history of my game dev career can be [found here](), in case you are interested at all.)
@@ -21,29 +23,33 @@ The artists were all using [DPaint](https://en.wikipedia.org/wiki/Deluxe_Paint) 
 
 In April 1991 I signed an agreement to complete the graphics for a game already under development. The game was being developed by DC Software (a programmer by the name of Dan Clapson I believe, working elsewhere in the U.K. ). I spent several weeks, maybe even months, drawing sprites for this version of the game. All I have to show now are three printouts of game mockups and a few animated sprites. I did suggest changing the name of the game from Monkey Business to Funky Monkey.
 
-<div class="gallery" data-columns="3">
-	<img src="/images/funkymonkey/MonkeyBusiness-mockup-01.jpg">
-	<img src="/images/funkymonkey/MonkeyBusiness-mockup-02.jpg">
-	<img src="/images/funkymonkey/MonkeyBusiness-mockup-funky.jpg">
+<div class="gallery-box">
+	<div class="gallery">
+		<img src="/images/funkymonkey/MonkeyBusiness-mockup-01.jpg" loading="lazy">
+		<img src="/images/funkymonkey/MonkeyBusiness-mockup-02.jpg" loading="lazy">
+		<img src="/images/funkymonkey/MonkeyBusiness-mockup-funky.jpg" loading="lazy">
+	</div>
 </div>
 
 ## Funky Monkey
 
 By the start of 1992 the development of Monkey Business had stalled completely. I can’t remember why. I was asked to redesign the character and see if there was anything that could be salvaged. I was pleased because the original idea was far too pedestrian and it had a very old school, 8-bit vibe. By now games like Sonic, which launched on the Mega Drive during 1991, showed what could be achieved with platform games.
 
-<div class="gallery" data-columns="4">
-	<img src="/images/funkymonkey/Scan-first-design.jpg">
-	<img src="/images/funkymonkey/Scan-first-design-02.jpg">
-	<img src="/images/funkymonkey/Scan-full-actions-01.jpg">
-	<img src="/images/funkymonkey/Scan-full-actions-02.jpg">
-	<img src="/images/funkymonkey/Scan-full-front-side.jpg">
-	<img src="/images/funkymonkey/Scan-full-keeper.jpg">
-	<img src="/images/funkymonkey/Scan-full-title.jpg">
-	<img src="/images/funkymonkey/Scan-sketch-actions.jpg">
-	<img src="/images/funkymonkey/Scan-sketch-circles.jpg">
-	<img src="/images/funkymonkey/Scan-sketch-front-side.jpg">
-	<img src="/images/funkymonkey/Scan-sketch-keeper.jpg">
-	<img src="/images/funkymonkey/Scan-sketch-thumb.jpg">
+<div class="gallery-box">
+	<div class="gallery">
+		<img src="/images/funkymonkey/Scan-first-design.jpg" loading="lazy">
+		<img src="/images/funkymonkey/Scan-first-design-02.jpg" loading="lazy">
+		<img src="/images/funkymonkey/Scan-full-actions-01.jpg" loading="lazy">
+		<img src="/images/funkymonkey/Scan-full-actions-02.jpg" loading="lazy">
+		<img src="/images/funkymonkey/Scan-full-front-side.jpg" loading="lazy">
+		<img src="/images/funkymonkey/Scan-full-keeper.jpg" loading="lazy">
+		<img src="/images/funkymonkey/Scan-full-title.jpg" loading="lazy">
+		<img src="/images/funkymonkey/Scan-sketch-actions.jpg" loading="lazy">
+		<img src="/images/funkymonkey/Scan-sketch-circles.jpg" loading="lazy">
+		<img src="/images/funkymonkey/Scan-sketch-front-side.jpg" loading="lazy">
+		<img src="/images/funkymonkey/Scan-sketch-keeper.jpg" loading="lazy">
+		<img src="/images/funkymonkey/Scan-sketch-thumb.jpg" loading="lazy">
+	</div>
 </div>
 
 Most of the images above were used in my initial proposal document, which I still have. I scanned the five pages of copy - which are quite painful to read. This is probably my first ever proposal document and I was barely into my twenties when I wrote it. Later, when we were developing mobile games for Nokia and Vodafone, writing proposals would become a major part of my job.
@@ -58,11 +64,13 @@ I also have some legal documents - the Contract of work for Monkey Business (I w
 
 Very little remains of the actual product. I do have some bitmap art left over from the Monkey Business incarnation. I also have a printout of a an almost complete sprite sheet for Funky. He is missing his mouth and tail (these were going to be added later. And there are a few actions not shown (spinning around on a branch). I have no idea why I animated him running towards the screen.
 
-<div class="gallery" data-columns="4">
-	<img src="/images/funkymonkey/Scan-doc-frame-counts.jpg">
-	<img src="/images/funkymonkey/Scan-doc-colours.jpg">
-	<img src="/images/funkymonkey/Sprite-Sheet-Scan.jpg">
-	<img src="/images/funkymonkey/pixel-animals.png">
+<div class="gallery-box">
+	<div class="gallery">
+		<img src="/images/funkymonkey/Scan-doc-frame-counts.jpg" loading="lazy">
+		<img src="/images/funkymonkey/Scan-doc-colours.jpg" loading="lazy">
+		<img src="/images/funkymonkey/Sprite-Sheet-Scan.jpg" loading="lazy">
+		<img src="/images/funkymonkey/pixel-animals.png" loading="lazy">
+	</div>
 </div>
 
 The background of this title image was me trying to implement a new technique for complex, shaded pixel art. This is mainly due to me being colour-blind. I’m not entirely sure it was successful (the lettering needs to be bolder for sure).
@@ -81,6 +89,7 @@ During a visit to the RMC Cave in May of 2022 I risked trying a 30 year old Amig
 We put the disk in the Amiga and waited. And waited. And then the old demo sprang into life! It was very strange seeing the little monkey jumping around again after all this time. I did grab a flickery video using my iPhone on a tripod, but there’s not a lot to see really.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rpL3ddGcFNI?si=m4ZyBpdlp_AayczF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  
 
 A couple of weeks later I visited my friends at [Bitmap Bureau](https://bitmapbureau.com/), and thanks to Mike, Matt and Lee (who brought his Amiga 500 in to work) we managed to grab a clean video of the demo. The plan was always to add his tail and mouth later. We even liked the idea of generating his tail algorithmically, which would have been nice.
 
@@ -107,7 +116,6 @@ The second piece is just instrumental. The idea was that Funky was a cheery litt
 		<div class="essential_audio" data-url="/images/funkymonkey/Funky_Monkey_Interlude.mp3"><span class="no_js">Please activate JavaScript for the audio player.</span></div>
 	</div>
 </div>
-
 
 These were produced entirely using a [Roland W30 workstation](https://en.wikipedia.org/wiki/Roland_W-30), [Steinberg Pro 24](http://www.muzines.co.uk/articles/steinberg-pro24-iii/1124) on an Atari ST and a [Tascam 488 portastudio](http://www.muzines.co.uk/articles/tascam-488/7389) - the latter being used to add the vocals.
 

@@ -1,168 +1,165 @@
-basic_settings:
-  site_title: 
-  site_tagline: 
-  favicon_image: /images/favicon.png
+#-------------------------------
+# Site Settings
+title: Glenn Broadway
+logo: '/images/Glogo88x88.png' # You can add own logo. For example '/images/logo.png'.
+description: My personal website.
+color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
-header_settings:
-  avatar_image: /images/Glogo512x512.png
-  logo_image: 
-  logo_width: 200
 
-menu_settings:
-  menu_items:
+#-------------------------------
+# Navigation Settings
+menu__settings:
+  menu__items:
     - title: 'Home'
       url: '/'
+    - title: 'About me'
+      url: '/about/'
+    #- title: 'My career'
+    #  url: '/career/'
+    #- title: 'Tech Stack'
+    #  url: '/techstack/'
+    #- title: 'References'
+    #  submenu:
+    #  - url: '/work/'
+    #    title: 'Works'
+    #  - url: '/own/'
+    #    title: 'Own projects'
     - title: 'Articles'
-      url: '/blog'
-    - title: 'About'
-      url: '/about'
+      url: '/blog/'
     - title: 'Contact'
-      url: '/contact'
+      url: '/contact/'
 
-grid_settings:
-  grid_spacing: 10
 
-contact_settings:
-  form_action: 'https://formspree.io/f/xnqkyzyv'
-  confirmation_url: '/thanks'
-  email_subject: 'Contact form submission'
-  send_button_text: 'Send Message'
+#-------------------------------
+# Author Settings
+author:
+  author__name: Glenn Broadway
+  author__bio: Graphic Design | Game Design
+  author__avatar: #'/images/portraits/megu-head-square.jpg'
 
-social_settings:
-  facebook_url: 'https://www.facebook.com/glennbroadway'
-  twitter_url: 'https://twitter.com/glennbroadway'
-  instagram_url: 'https://instagram.com/glennbroadway'
-  snapchat_url: ''
-  youtube_url: 'https://www.youtube.com/c/GlennBroadway'
-  google-plus_url: ''
-  vimeo_url: ''
-  pinterest_url: ''
-  medium_url: ''
-  quora_url: ''
-  amazon_url: ''
-  apple_url: ''
-  android_url: ''
-  tumblr_url: ''
-  dribbble_url: ''
-  behance_url: ''
-  deviantart_url: ''
-  github_url: ''
-  reddit_url: ''
-  flickr_url: ''
-  etsy_url: ''
-  kickstarter_url: ''
-  soundcloud_url: ''
-  spotify_url: ''
-  bandcamp_url: ''
-  linkedin_url: 'https://www.linkedin.com/in/glennbroadway/'
+social:
+#- {icon: "mail", link: "mailto:glennbroadway@gmail.com"}
+- {icon: "ion-logo-facebook", link: "https://www.facebook.com/glennbroadway"}
+- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/lruzicka96/"}
+- {icon: "ion-logo-instagram", link: "https://instagram.com/glennbroadway"}
+- {icon: "ion-logo-youtube", link: "https://www.youtube.com/c/GlennBroadway"}
+- {icon: "ion-logo-twitter", link: "https://twitter.com/glennbroadway"}
 
-color_settings:
-  background_color: '#ffffff'
-  background_alt_color: '#f4f5f6'
-  text_dark_color: '#2A2F36'
-  text_medium_color: '#4D4D4A'
-  text_light_color: '#ABB7B7'
-  accent_color: '#03CBDC'
-  border_color: '#03CBDC'
-  overlay_background_color: '#161B21'
-  overlay_text_color: '#ffffff'
-  error_color: '#D64541'
+# Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
+# Other icons can be found at https://ionicons.com/v4/
 
-font_settings:
-  # font_embed: '<link href="https://fonts.googleapis.com/css?family=Nunito:300,400,400i,600" rel="stylesheet">'
-  font_embed: '<link rel="stylesheet" href="https://use.typekit.net/phf2yqq.css">'
-  # title_font: '"Nunito", sans-serif'
-  # body_font: '"Nunito", sans-serif'
-  # regular_weight: 400
-  # bold_weight: 600
-  title_font: '"degular", sans-serif'
-  body_font: '"aktiv-grotesk", sans-serif'
-  font-weight: 300;
-  font-style: normal;
-  regular_weight: 300
-  bold_weight: 600
-  site_title:
-    small_size: 27
-    medium_size: 32
-    large_size: 40
-    weight: 600
-    letter_spacing: 0
-  site_tagline:
-    small_size: 16
-    medium_size: 18
-    large_size: 20
-    weight: 300
-    letter_spacing: 0
-    line_height: 1.5
-  menu:
-    small_size: 20
-    medium_size: 24
-    large_size: 27
-    weight: 600
-    letter_spacing: 0
-  h1:
-    small_size: 27
-    medium_size: 38
-    large_size: 50
-    weight: 600
-    letter_spacing: 0
-    line_height: 1.2
-  h2:
-    small_size: 27
-    medium_size: 38
-    large_size: 50
-    weight: 600
-    letter_spacing: 0
-    line_height: 1.2
-  h3:
-    small_size: 22
-    medium_size: 25
-    large_size: 30
-    weight: 300
-    letter_spacing: 0
-    line_height: 1.3
-  h4:
-    small_size: 17
-    medium_size: 22
-    large_size: 22
-    weight: 300
-    letter_spacing: 0
-    line_height: 1.6
-  h5:
-    small_size: 17
-    medium_size: 20
-    large_size: 20
-    weight: 300
-    letter_spacing: 0
-    line_height: 1.6
-  h6:
-    small_size: 17
-    medium_size: 20
-    large_size: 20
-    weight: 300
-    letter_spacing: 0
-    line_height: 1.6
-  p:
-    small_size: 17
-    medium_size: 21
-    large_size: 24
-    weight: 300
-    letter_spacing: 0
-    line_height: 1.4
-  blockquote:
-    small_size: 20
-    medium_size: 25
-    large_size: 35
-    weight: 300
-    letter_spacing: -0.02
-    line_height: 1.2
-  buttons:
-    weight: 600
-    letter_spacing: 0.03
 
-advanced_settings:
-  ajax_loading: true
-  analytics_code: ""
-  custom_styles: ""
-  header_js: ""
-  footer_js: ""
+#-------------------------------
+# Hero Settings
+hero:
+  enable: true
+  hero__title: Hello
+  hero__description: "I'm excited to say I'm working on a video games again, with my old friends at [Bitmap Bureau](https://bitmapbureau.com/). I couldn't be happier. Find out more about me [here](/about/).
+I decided to delete my old Squarespace blog, but I archived a few articles [here](/blog/)."
+  hero__image: 
+
+
+#-------------------------------
+# Logos Settings
+logos:
+  enable: false
+  logos__title: Companies I've had the pleasure to work with
+
+logo__items:
+  - name: endavu
+    link: "https://www.endavu.com"
+    image: "/images/companies/endavu.svg"
+  
+  - name: MeguMethod
+    link: "https://www.megumethod.com/"
+    image: "/images/companies/megumethod.svg"
+
+  - name: tado°
+    link: "https://www.tado.com/"
+    image: "/images/companies/tado.svg"
+
+  - name: Synetech
+    link: "https://synetech.cz/"
+    image: "/images/companies/synetech.svg"
+
+  - name: SpaceKnow
+    link: "https://spaceknow.com/"
+    image: "/images/companies/spaceknow.svg"
+
+
+#-------------------------------
+# Work Settings
+work:
+  enable: false
+  work__title: References
+  work__description: Some of the interesting projects and other initiatives I have worked on over the years.
+
+#-------------------------------
+# Own projects Settings
+own:
+  enable: false
+  own__title: Own projects
+  own__description: Here are the projects I've done on my own.
+
+
+#-------------------------------
+# Testimonials Section
+testimonials:
+  enable: false
+
+testimonial__title: Recommendations
+testimonial__description: 
+
+testimonial__items:
+  - name: "Daniel Rutkovsky"
+    image: "/images/recommendations/daniel-rutkovsky.jpg"
+    designation: "CTO & Co-Founder at MeguMethod"
+    link: "https://www.linkedin.com/in/daniel-rutkovsky/"
+    content: "I've started working with Lukas almost 5 years ago. He came as a skilled medior to our team. He worked on many projects and his skills grew blazingly fast. He soon started leading our projects and focusing on AR development."
+    content_second_paragraph: "As he became senior developer Lukas took on more responsibilities and led our iOS team (house in our jargon) for the last two years. During this time his team grew and became the best-managed team in our company."
+    content_third_paragraph: "Not only that Lukas has great management skills, he's also an excellent developer. He was our iOS tech guru and author of many internal libraries and architecture patterns, that we use on our projects today. He has deep knowledge of Clean architecture, SPM (swift package manager) and SwiftUI."
+
+  - name: "Tomas Novotny"
+    image: "/images/recommendations/tomas-novotny.jpg"
+    designation: "iOS Tech Lead at SYNETECH"
+    link: "https://www.linkedin.com/in/tom-nvt/"
+    content: "From the beginning of our cooperation about 4 years ago, Lukáš was one of the most helpful and supportive colleagues on the team. He guided me in my first steps in Synetech and also in Synetech's biggest project, on which we worked together. It was an honor to work with Lukáš and see him grow in both technical and soft skills. He is always open to finding out ways to improve himself as well as the well-being of the whole team. Besides being a great iOS engineer, who is able to cope with any technical challenge, he is also experienced in managerial roles as he can find the balance between the needs of the company and the iOS team and be a great delegate for the team."
+
+  - name: "Niklas Astrom"
+    image: "/images/recommendations/niklas-astrom.jpg"
+    designation: "Engineering Manager at tado°"
+    link: "https://www.linkedin.com/in/niklasastrom/"
+    content: "Lukáš’ knowledge and skills as well as willingness to help makes me happy I got the chance to work together with him! During the year we worked together, he not only delivered high quality software, but he was also always there to help others with everything from pair programming to discussing technical solutions and team improvements. He is a strong team player and someone I could trust and count on. I'm happy that I got to know him, and I'm sure he will do great in his upcoming adventures!"
+
+#-------------------------------
+# Blog Section
+blog:
+  enable: true
+
+blog__settings:
+  blog__title: Articles
+  blog__description: An archive of articles I have written over the years. Mostly nonsense.
+
+
+#-------------------------------
+# Footer Settings
+footer__background__image: # "/images/footer-bg.jpg"
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: xnqkyzyv # Formspree (https://formspree.io/) form id
+  description: I'm dotted around the Internet in various places - use the links below if you like. Or, drop me a line using the form. I promise I won't send your email address to a spam bot. Honest.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus:
+  enable: false
+  disqus__identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
+
+
+#-------------------------------
+# Google Analytics
+google-analytics:

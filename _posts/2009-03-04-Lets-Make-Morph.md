@@ -1,14 +1,17 @@
 ---
+layout: post
 title: "Let's Make Morph"
 date: 2009-03-04 15:34:00
-featured_image: 
-excerpt: Tony Hart was a true inspiration to a whole generation of British children.
+image: '/images/morph-thumbnail.jpg'
+description: Tony Hart was a true inspiration to a whole generation of British children.
+tags: [events]
 ---
 
 
 On Sunday I traveled up to London to attend Let's Make Morph - a tribute to Tony Hart. Not quite a Flash Mob ([as reported](http://news.bbc.co.uk/1/hi/uk/7918002.stm) by several news sources) but still a fairly large gathering of people, many of whom brought along their own Morphs. The Facebook group which started the whole thing had around 800 members. There were probably more like 300 people there on the day, gathered at the end of the Millennium Bridge outside Tate Modern. The Morphs came in all shapes, sizes and colours. I just added a black armband to mine, which otherwise stayed fairly faithful to Lord and Sproxton's original design.
 
 ![Morph by Rachel Day]({{ site.baseurl }}/images/morph1.jpg)
+<em>Morph by Rachel Day</em>
 
 I had written to the Aardman founders in the hope they might attend (alas, no response) but we were joined by Tony Hart's daughter Carolyn. She seemed really pleased to see so many people gathering in memory of her father, and took a lot of time talking to everyone there.
 

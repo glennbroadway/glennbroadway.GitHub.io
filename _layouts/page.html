@@ -2,15 +2,32 @@
 layout: default
 ---
 
-<section class="single">
+<div class="container">
+  <div class="page-head">
 
-	<div class="wrap">
+    <div class="page-info">
+      <h1 class="page-title">{{ page.title | escape }}</h1>
+      {% if page.description %}
+      <div class="page-description">{{ page.description }}</div>
+      {% endif %}
+    </div>
 
-		<h1>{{ page.title }}</h1>
-		<p class="subtitle">{{ page.subtitle }}</p>
+    {%if page.image %}
+    <div class="page-image">
+      <img class="lazy" data-src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}">
+    </div>
+    {% if page.image_caption %}
+    <div class="page-image-caption">{{ page.image_caption | markdownify | replace: '<p>' | replace: '</p>' }}</div>
+    {% endif %}
+    {%endif %}
 
-		{{ page.content }}
+  </div>
+</div>
 
-	</div>
-
-</section>
+<!-- begin page -->
+<div class="container animate">
+  <article class="page">
+    {{ content }}
+  </article>
+</div>
+<!-- end page -->

@@ -1,8 +1,23 @@
-site: Simples Jekyll Theme
+#-------------------------------
+# General Site Settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://glennbroadway.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-url: 
-baseurl: 
 
+#-------------------------------
+# Build Settings
+markdown: kramdown
+permalink: /:title
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+paginate: 5
+paginate_path: "/blog/page/:num"
+
+
+#-------------------------------
+# Collections
 collections:
   pages:
     output: true
@@ -10,48 +25,40 @@ collections:
   posts:
     output: true
     permalink: /blog/:slug
-  projects:
-    output: false
-    permalink: /project/:slug
+  works:
+    output: true
+    permalink: /work/:slug
+  owns:
+    output: true
+    permalink: /own/:slug
 
+# Pages Path
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
     values:
       layout: "default"
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages"
     values:
       layout: "page"
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-  -
-    scope:
+  - scope:
       path: ""
-      type: "projects"
+      type: "works"
     values:
-      layout: "project"
+      layout: "work"
+  - scope:
+      path: ""
+      type: "owns"
+    values:
+      layout: "work"
 
-markdown: kramdown
-
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-  
 sass:
+  sass_dir: _sass
   style: compressed
-
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-
-paginate: 6
-paginate_path: "/blog/page:num/"
-  
