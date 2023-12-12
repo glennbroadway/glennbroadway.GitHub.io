@@ -1,10 +1,27 @@
 {% if site.data.settings.hero.enable == true %}
 <!-- begin hero -->
+
+<!-- HEADER SECTION ADDED BY GLENN copied from the About Me page -->
+<div class="container">
+  <div class="page-head">
+    <div class="page-info">
+      <h1 class="page-title">Hello</h1>
+      <div class="page-description"><p>I'm excited to say I'm working in video games again, with my old friends at <a href="https://bitmapbureau.com/">Bitmap Bureau</a>. I couldn't be happier.
+      <br/>
+      Find out more about me <a href="/about/">here</a>.
+      <br/>
+      I decided to delete my old Squarespace blog, but I archived a few articles <a href="/blog/">here</a>.</p></div>
+    </div>
+  </div>
+</div>
+<!-- END OF HEADER SECTION ADDED BY GLENN -->
+
+<!-- ORIGINAL HERO BLOCK
 <section class="hero">
   <div class="container">
     <div class="row">
 
-      <div> <!-- class="col col-6 col-d-12" -->
+      <div class="col col-6 col-d-12">
         <div class="hero__left">
           {% if site.data.settings.author.author__avatar %}
           <div class="hero__avatar">
@@ -30,16 +47,17 @@
         </div>
       </div>
 
-      <!-- <div class="col col-5 col-d-12">
+      <div class="col col-5 col-d-12">
         <div class="hero__right">
           <div class="hero__image">
             <img class="lazy" data-src="{{ site.data.settings.hero.hero__image }}" alt="{{site.data.settings.author.author__name}}'s Picture">
           </div>
         </div>
-      </div> -->
+      </div>
 
     </div>
   </div>
 </section>
+END OF ORIGINAL HERO BLOCK -->
 <!-- end hero -->
 {% endif %}

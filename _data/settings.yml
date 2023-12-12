@@ -54,7 +54,7 @@ social:
 hero:
   enable: true
   hero__title: Hello
-  hero__description: "I'm excited to say I'm working on a video games again, with my old friends at [Bitmap Bureau](https://bitmapbureau.com/). I couldn't be happier. Find out more about me [here](/about/).
+  hero__description: "I'm excited to say I'm working in video games again, with my old friends at [Bitmap Bureau](https://bitmapbureau.com/). I couldn't be happier. Find out more about me [here](/about/).
 I decided to delete my old Squarespace blog, but I archived a few articles [here](/blog/)."
   hero__image: 
 
