@@ -1,14 +1,14 @@
 /* Color Scheme */
 
 :root {
-  --primary-color: #4d41e0;
+  --primary-color: #69bbcf; /* #4d41e0; */
   --white: #fff;
   --light-gray: #f5f5f5;
   --lighten-gray: #e7e7e7;
   --light-blue: #afB5bd;
   --blue-gray: #687385;
   --gray: #e0e0e0;
-  --dark: #080227;
+  --dark: #202020; /* #080227; */
 
   // Background Color
   --background-color: var(--white);
@@ -29,7 +29,7 @@
   // Button
   --button-color: var(--white);
   --button-background-color: var(--primary-color);
-  --button-background-hover: #4035c8;
+  --button-background-hover: #8e2022; /* #4035c8; */
 
   // Border
   --border-color: var(--gray);
